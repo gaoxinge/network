@@ -1,11 +1,11 @@
 ﻿# socket
 
-## network library
+## library
 
-- [muduo](https://github.com/gaoxinge/network/tree/master/socket/network%20library/muduo)
-- [twisted](https://github.com/gaoxinge/network/tree/master/socket/network%20library/twisted)
-- [tornado](https://github.com/gaoxinge/network/tree/master/socket/network%20library/tornado)
+- [muduo](https://github.com/gaoxinge/network/tree/master/socket/library/muduo)
+- [twisted](https://github.com/gaoxinge/network/tree/master/socket/library/twisted)
+- [tornado](https://github.com/gaoxinge/network/tree/master/socket/library/tornado)
 
-## tutorial
+## code
 
 - [Let's Build A Web Server]()
