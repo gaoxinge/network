@@ -27,7 +27,7 @@
 
 ## tutorial
 
-- [²ËÄñ½Ì³Ì]()
-- [ÁÎÑ©·åPython2.7]()
+- [èœé¸Ÿæ•™ç¨‹](https://github.com/gaoxinge/network/tree/master/%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B)
+- [å»–é›ªå³°Python2.7](https://github.com/gaoxinge/network/tree/master/%E5%BB%96%E9%9B%AA%E5%B3%B0Python2.7)
 - [The Hitchhiker's Guide to Python!](http://docs.python-guide.org)
 - [Full Stack Python](http://www.fullstackpython.com)
