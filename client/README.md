@@ -7,7 +7,7 @@
 ## parser
 
 - [lxml](https://github.com/gaoxinge/network/tree/master/client/parser/lxml)
-- [beautifulsoup](https://github.com/gaoxinge/web/tree/master/client/parser/beautifulsoup)
+- [beautifulsoup](https://github.com/gaoxinge/network/tree/master/client/parser/beautifulsoup)
 
 ## crawler
 
@@ -20,11 +20,7 @@
 
 ## download
 
-## tutorial
-
-- [Python爬虫学习系列教程](https://github.com/gaoxinge/web/tree/master/crawler/tutorial/Python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
-
 ## code
 
-## framework
+- [Python爬虫学习系列教程](https://github.com/gaoxinge/network/tree/master/client/crawler/code/Python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
 
