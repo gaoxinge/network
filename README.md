@@ -1,4 +1,4 @@
-# network
+﻿# network
 
 ## basic
 
@@ -18,6 +18,8 @@
 - [client](https://github.com/gaoxinge/network/tree/master/client)
 
 ## other protocol
+
+- [mail](https://github.com/gaoxinge/network/tree/master/mail)
 
 ## other application
 
