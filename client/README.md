@@ -3,6 +3,7 @@
 ## request
 
 - [requests](https://github.com/gaoxinge/network/tree/master/client/request/requests)
+- [grequests](https://github.com/gaoxinge/network/tree/master/client/request/grerequests)
 
 ## parser
 
@@ -23,5 +24,5 @@
 - [you-get](https://github.com/gaoxinge/network/tree/master/client/code/you-get)
 - [danmu](https://github.com/gaoxinge/network/tree/master/client/code/danmu)
 - [fuck-login](https://github.com/gaoxinge/network/tree/master/client/code/fuck-login)
-- [Python爬虫学习系列教程](https://github.com/gaoxinge/network/tree/master/client/crawler/code/Python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
+- [Python爬虫学习系列教程](https://github.com/gaoxinge/network/tree/master/client/code/Python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
 
