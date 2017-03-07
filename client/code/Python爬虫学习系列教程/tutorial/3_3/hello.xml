@@ -1,0 +1,11 @@
+<bookstore>
+	<book>
+		<title lang="eng">Harry Potter</title>
+		<price>29.99</price>
+	</book>
+
+	<book>
+		<title lang="chi">Learning XML</title>
+		<price>39.95</price>
+	</book>
+</bookstore>
