@@ -2,9 +2,6 @@ import requests
 from Item import Item
 from lxml import etree
 
-urls = ['http://stackoverflow.com/questions/?page=' + str(i) + '&sort=votes' for i in range(1, 3)]
-f = open('stackoverflow.txt', 'w')
-
 def http(url):
     response = requests.get(url)
     return response
@@ -24,6 +21,9 @@ def parse(response):
 
 def store(item):
     f.write(str(item) + '\n')
+
+urls = ['http://stackoverflow.com/questions/?page=' + str(i) + '&sort=votes' for i in range(1, 3)]
+f = open('stackoverflow.txt', 'w')
 
 while urls:
     response = http(urls.pop(0))
