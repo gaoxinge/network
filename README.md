@@ -27,7 +27,7 @@
 
 ## database
 
-## tutorial
+## code
 
 - [菜鸟教程](https://github.com/gaoxinge/network/tree/master/%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B)
 - [廖雪峰Python2.7](https://github.com/gaoxinge/network/tree/master/%E5%BB%96%E9%9B%AA%E5%B3%B0Python2.7)
