@@ -10,6 +10,10 @@
 - [lxml](https://github.com/gaoxinge/network/tree/master/client/parser/lxml)
 - [beautifulsoup](https://github.com/gaoxinge/network/tree/master/client/parser/beautifulsoup)
 
+## request and parser
+
+- [pyquery](https://github.com/gaoxinge/network/tree/master/client/request%20and%20parser/pyquery)
+
 ## crawler
 
 - [CSpider](https://github.com/gaoxinge/network/tree/master/client/crawler/CSpider)
