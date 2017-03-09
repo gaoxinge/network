@@ -18,14 +18,9 @@ XHTML
 '''
 
 root = etree.HTML(html)
-print root.xpath('//li')
-print root.xpath('//li/@class')
-print root.xpath('//li/a[@href=\'link1.html\']/text()')
-print root.xpath('//li//span/text()')
-print root.xpath('//li/a//@class')
-print root.xpath('//li[last()]/a/@href')
-print root.xpath('//li[last()]/a/@href[1]')
-print root.xpath('(//li[last()]/a/@href)[1]')
-print root.xpath('//li[last()-1]/a/text()')
-print root.xpath('//li[last()-1]/a')[0].text
-print root.xpath('//*[@class=\'bold\']')[0].tag
+result = root.xpath('//li')
+print result[0].xpath('/html')
+print result[0].xpath('//a')
+print result[0].xpath('a')
+print result[4].xpath('a/@href')
+print result[0].xpath('@class')

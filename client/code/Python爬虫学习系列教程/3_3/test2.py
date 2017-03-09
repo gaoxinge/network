@@ -1,50 +1,31 @@
 from lxml import etree
 
-xml = '''
-<bookstore>
+html = '''
+XHTML
 
-<book category="COOKING">
-  <title lang="en">Everyday Italian</title>
-  <author>Giada De Laurentiis</author>
-  <year>2005</year>
-  <price>30.00</price>
-</book>
+<html><body>
+<div>
+    <ul>
+         <li class="item-0"><a href="link1.html">first item</a></li>
+         <li class="item-1"><a href="link2.html">second item</a></li>
+         <li class="item-inactive"><a href="link3.html"><span class="bold">third item</span></a></li>
+         <li class="item-1"><a href="link4.html">fourth item</a></li>
+         <li class="item-0"><a href="link5.html">fifth item</a><a href="link6.html">sixth item</a></li>
+</ul>
+ </div>
 
-<book category="CHILDREN">
-  <title lang="en">Harry Potter</title>
-  <author>J K. Rowling</author>
-  <year>2005</year>
-  <price>29.99</price>
-</book>
-
-<book category="WEB">
-  <title lang="chi">XQuery Kick Start</title>
-  <author>James McGovern</author>
-  <author>Per Bothner</author>
-  <author>Kurt Cagle</author>
-  <author>James Linn</author>
-  <author>Vaidyanathan Nagarajan</author>
-  <year>2003</year>
-  <price>49.99</price>
-</book>
-
-<book category="WEB">
-  <title lang="chi">Learning XML</title>
-  <author>Erik T. Ray</author>
-  <year>2003</year>
-  <price>39.95</price>
-</book>
-
-</bookstore>
+</body></html>
 '''
 
-root = etree.XML(xml)
-print root.xpath('book')
-print root.xpath('/bookstore/book')
-print root.xpath('//book')
-print root.xpath('/bookstore/book[1]/@category')
-print root.xpath('/bookstore/book[last()]/@category')
-print root.xpath('/bookstore/book[position()<3]/@category')
-print root.xpath('//title[@lang]/@lang')
-print root.xpath('//title[@lang=\'chi\']/text()')
-print root.xpath('/bookstore/book[price>35.0]//@lang')
+root = etree.HTML(html)
+print root.xpath('//li')
+print root.xpath('//li/@class')
+print root.xpath('//li/a[@href=\'link1.html\']/text()')
+print root.xpath('//li//span/text()')
+print root.xpath('//li/a//@class')
+print root.xpath('//li[last()]/a/@href')
+print root.xpath('//li[last()]/a/@href[1]')
+print root.xpath('(//li[last()]/a/@href)[1]')
+print root.xpath('//li[last()-1]/a/text()')
+print root.xpath('//li[last()-1]/a')[0].text
+print root.xpath('//*[@class=\'bold\']')[0].tag
