@@ -27,6 +27,10 @@
 
 ## database
 
+## architecture
+
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 ## code
 
 - [菜鸟教程](https://github.com/gaoxinge/network/tree/master/%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B)
