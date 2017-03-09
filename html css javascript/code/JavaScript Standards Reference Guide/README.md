@@ -1,0 +1,1 @@
+﻿- [JavaScript Standards Reference Guide](http://javascript.ruanyifeng.com/)
