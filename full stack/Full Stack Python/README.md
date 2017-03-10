@@ -1,1 +1,0 @@
-﻿- [Full Stack Python](http://www.fullstackpython.com)
