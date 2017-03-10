@@ -1,5 +1,10 @@
 ﻿# html/css/javascript
 
+## html and css
+
+- [W3C](https://www.w3.org/)
+- [W3school](http://www.w3school.com.cn/)
+
 ## javascript
 
 - [JavaScript Standards Reference Guide](https://github.com/gaoxinge/network/tree/master/html%20css%20javascript/javascript/JavaScript%20Standards%20Reference%20Guide)
