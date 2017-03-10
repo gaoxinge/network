@@ -8,7 +8,7 @@
 
 ## architecture
 
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [architecture](https://github.com/gaoxinge/network/tree/master/architecture)
 
 ## socket and process
 
