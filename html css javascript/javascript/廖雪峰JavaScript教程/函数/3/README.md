@@ -1,1 +1,1 @@
-﻿- [如何理解和熟练运用js中的call及apply？](https://www.zhihu.com/question/20289071)
+﻿
