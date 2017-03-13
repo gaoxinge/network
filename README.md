@@ -15,13 +15,12 @@
 
 - [architecture](https://github.com/gaoxinge/network/tree/master/architecture)
 
-## socket and process
+## operation
 
 - [socket](https://github.com/gaoxinge/network/tree/master/socket)
 - [process](https://github.com/gaoxinge/network/tree/master/process)
+- [database](ttps://github.com/gaoxinge/network/tree/master/database)
 - [monitor](https://github.com/gaoxinge/network/tree/master/monitor)
-
-## database
 
 ## web
 
@@ -30,11 +29,11 @@
 - [back end](https://github.com/gaoxinge/network/tree/master/back%20end)
 - [full stack](https://github.com/gaoxinge/network/tree/master/full%20stack)
 
-## other protocol
+## protocol
 
 - [mail](https://github.com/gaoxinge/network/tree/master/mail)
 
-## other application
+## application
 
 - [gfw](https://github.com/gaoxinge/network/tree/master/gfw)
 
