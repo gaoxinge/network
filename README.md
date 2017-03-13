@@ -26,8 +26,8 @@
 ## web
 
 - [client](https://github.com/gaoxinge/network/tree/master/client)
-- [html/css/javascript](https://github.com/gaoxinge/network/tree/master/html%20css%20javascript)
-- [framework](https://github.com/gaoxinge/network/tree/master/framework)
+- [front end](https://github.com/gaoxinge/network/tree/master/front%20end)
+- [back end](https://github.com/gaoxinge/network/tree/master/back%20end)
 - [full stack](https://github.com/gaoxinge/network/tree/master/full%20stack)
 
 ## other protocol
