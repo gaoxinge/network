@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<script src="abc.js"></script>
+		<script>alert(1);</script>
+		<script>function refreshPrice(data) {
+		var p = document.getElementsByTagName('p')[0];
+		p.innerHTML = '当前价格：' +
+			data['0000001'].name +': ' + 
+			data['0000001'].price + '；' +
+			data['1399001'].name + ': ' +
+			data['1399001'].price;
+		}</script>
+		<script src="http://api.money.126.net/data/feed/0000001,1399001?callback=refreshPrice"></script>
+		<!--由于这时候没有p这个标签，所以这一段js执行了，但是得不到想要的结果-->
+	</head>
+	
+	<body>
+		<p></p>
+		<script src="http://api.money.126.net/data/feed/0000001,1399001?callback=refreshPrice"></script>
+	</body>
+</html>
