@@ -24,15 +24,25 @@
 原型链的作用是为了对象查找属性。它是由函数对象的prototype，__proto__，constructor和普通对象的__proto__，constructor维系的。
 
 def f() {}     ---> Function.prototype ---> Object.prototype ---> null
+
 1              ---> Number.prototype   ---> Object.prototype ---> null
+
 new Number(1)  ---> Number.prototype   ---> Object.prototype ---> null
+
 true           ---> Boolean.prototype  ---> Object.prototype ---> null
+
 new Boolean(1) ---> Boolean.prototype  ---> Object.prototype ---> null
+
 '1'            ---> String.prototype   ---> Object.prototype ---> null
+
 new String(1)  ---> String.prototype   ---> Object.prototype ---> null
+
 []             ---> Array.prototype    ---> Object.prototype ---> null
+
 {}             ---> Object.prototype   ---> null
+
 Math           ---> Object.prototype   ---> null
+
 JSON           ---> Object.prototype   ---> null
 
 ## 特殊方法（魔术方法）
