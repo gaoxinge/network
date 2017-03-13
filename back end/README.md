@@ -6,6 +6,9 @@
 - [cinatra](https://github.com/topcpporg/cinatra)
 - [treefrog-framework](https://github.com/treefrogframework/treefrog-framework)
 - [gSOAP](https://github.com/stoneyrh/gSOAP)
+- [C++开发Web服务框架-基础知识：C++11与Boost Asio(一)](http://blog.csdn.net/watson2016/article/details/52415382)
+- [C++开发Web服务框架-HTTP Web框架的设计与实现（二）](http://blog.csdn.net/watson2016/article/details/52415429)
+- [C++开发Web服务框架-HTTPS的原理及其Web框架的设计与实现（三）](http://blog.csdn.net/watson2016/article/details/52415487)
 
 ## python
 
