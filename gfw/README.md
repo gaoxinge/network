@@ -49,8 +49,8 @@
 
 ## code
 
-- [GFW](https://github.com/gaoxinge/network/tree/master/gfw/GFW)
-- [hosts](https://github.com/gaoxinge/network/tree/master/gfw/hosts)
-- [proxy](https://github.com/gaoxinge/network/tree/master/gfw/proxy)
-- [vpn](https://github.com/gaoxinge/network/tree/master/gfw/vpn)
-- [router](https://github.com/gaoxinge/network/tree/master/gfw/router)
+- [GFW](https://github.com/gaoxinge/network/blob/master/gfw/gfw.md)
+- [hosts](https://github.com/gaoxinge/network/tree/master/gfw/hosts.md)
+- [proxy](https://github.com/gaoxinge/network/tree/master/gfw/proxy.md)
+- [vpn](https://github.com/gaoxinge/network/tree/master/gfw/vpn.md)
+- [router](https://github.com/gaoxinge/network/tree/master/gfw/router.md)
