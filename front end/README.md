@@ -2,6 +2,7 @@
 
 ## html and css
 
+- [有哪些关于前端开发技术（HTML、CSS 和 JavaScript 等）的值得推荐的书籍？](https://www.zhihu.com/question/19809484/answer/13215239)
 - [You-Dont-Need-Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
 
 ## javascript
