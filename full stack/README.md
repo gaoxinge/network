@@ -17,6 +17,8 @@
 
 ## tutorial
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [jstraining](https://github.com/ruanyf/jstraining)
 - [phodal](https://github.com/phodal)
 - [The Hitchhiker's Guide to Python!](http://docs.python-guide.org)
