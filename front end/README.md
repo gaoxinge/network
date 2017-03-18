@@ -2,10 +2,10 @@
 
 ## html and css
 
-- []()
+- [Head First HTML与CSS（第2版）](https://book.douban.com/subject/25752357/)
 - [有哪些关于前端开发技术（HTML、CSS 和 JavaScript 等）的值得推荐的书籍？](https://www.zhihu.com/question/19809484/answer/13215239)
 - [You-Dont-Need-Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
-- [Bootstrap]()
+- [Bootstrap](https://github.com/gaoxinge/network/tree/master/front%20end/html%20and%20css/Bootstrap)
 - [Semantic UI](https://semantic-ui.com/)
 
 ## javascript
@@ -15,10 +15,10 @@
 - [JavaScript奇技淫巧45招](https://chensd.com/2015-01/45-useful-javascript-tips-tricks-and-best-practices.html)
 - [JavaScript Standards Reference Guide](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/JavaScript%20Standards%20Reference%20Guide)
 - [廖雪峰JavaScript教程](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/%E5%BB%96%E9%9B%AA%E5%B3%B0JavaScript%E6%95%99%E7%A8%8B)
-- [jQuery]()
+- [jQuery](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/jQuery)
+- [Vue.js](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/Vue.js)
 - [Angular Js](https://angularjs.org/)
 - [React](https://facebook.github.io/react/)
-- [Vue.js]()
 
 ## browser
 
