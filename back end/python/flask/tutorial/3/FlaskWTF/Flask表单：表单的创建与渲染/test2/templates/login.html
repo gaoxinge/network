@@ -1,0 +1,4 @@
+{% import "bootstrap/wtf.html" as wtf %}
+<form class="form" action="{{ url_for('login') }}" method="POST">
+    {{ wtf.quick_form(form) }}
+</form>
