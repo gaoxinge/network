@@ -1,27 +1,8 @@
 ﻿# 面向对象编程
 
-## 结构
-
-- 元类（函数对象）
-  - Function
-- 类（函数对象）
-  - Number
-  - Boolean
-  - String
-  - Array
-  - Map
-  - Set
-  - Date
-  - RegExp
-  - Error
-  - Object
-- 实例（普通对象）
-  - Math
-  - JSON
-
 ## 原型链
 
-原型链的作用是为了对象查找属性。它是由函数对象的prototype，__proto__，constructor和普通对象的__proto__，constructor维系的。
+- 原型链的作用是为了对象查找属性。它是由函数对象的prototype，__proto__，constructor和普通对象的__proto__，constructor维系的
 
 def f() {}     ---> Function.prototype ---> Object.prototype ---> null
 
