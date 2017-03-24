@@ -42,10 +42,10 @@ JSON           ---> Object.prototype   ---> null
 - valueOf
 - prototype（函数对象）
 
-## typeof和isinstanceof
+## typeof和instanceof
 
 - [typeof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof)
-- [isinstanceof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/instanceof)
+- [instanceof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/instanceof)
 
 ## 参考
 
