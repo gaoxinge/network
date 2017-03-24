@@ -2,7 +2,6 @@
 
 ## library
 
-- [muduo](https://github.com/gaoxinge/network/tree/master/socket/library/muduo)
 - [twisted](https://github.com/gaoxinge/network/tree/master/socket/library/twisted)
 
 ## code
