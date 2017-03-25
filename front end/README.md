@@ -14,6 +14,7 @@
 - [aaencode](http://utf-8.jp/public/aaencode.html)
 - [JavaScript奇技淫巧45招](https://chensd.com/2015-01/45-useful-javascript-tips-tricks-and-best-practices.html)
 - [JavaScript Standards Reference Guide](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/JavaScript%20Standards%20Reference%20Guide)
+- [ECMAScript6入门]()
 - [廖雪峰JavaScript教程](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/%E5%BB%96%E9%9B%AA%E5%B3%B0JavaScript%E6%95%99%E7%A8%8B)
 - [jQuery](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/jQuery)
 - [Vue.js](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/Vue.js)
