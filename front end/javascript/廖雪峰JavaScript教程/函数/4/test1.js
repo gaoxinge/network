@@ -4,6 +4,6 @@ numbers.forEach(function (element, index, array) {
 });
 
 var str = "Hello World";
-Array.prototype.map.call(str, function (element, index, string) {
+Array.prototype.forEach.call(str, function (element, index, string) {
 	console.log(index + ": " + element);
 });
