@@ -6,7 +6,7 @@
 - [有哪些关于前端开发技术（HTML、CSS 和 JavaScript 等）的值得推荐的书籍？](https://www.zhihu.com/question/19809484/answer/13215239)
 - [You-Dont-Need-Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
 - [Bootstrap](https://github.com/gaoxinge/network/tree/master/front%20end/html%20and%20css/Bootstrap)
-- [Semantic UI](https://semantic-ui.com/)
+- [Semantic UI](https://github.com/gaoxinge/network/tree/master/front%20end/html%20and%20css/Semantic%20UI)
 
 ## javascript
 
@@ -14,7 +14,7 @@
 - [aaencode](http://utf-8.jp/public/aaencode.html)
 - [JavaScript奇技淫巧45招](https://chensd.com/2015-01/45-useful-javascript-tips-tricks-and-best-practices.html)
 - [JavaScript Standards Reference Guide](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/JavaScript%20Standards%20Reference%20Guide)
-- [ECMAScript6入门]()
+- [ECMAScript6入门](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/ECMAScript6%E5%85%A5%E9%97%A8)
 - [廖雪峰JavaScript教程](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/%E5%BB%96%E9%9B%AA%E5%B3%B0JavaScript%E6%95%99%E7%A8%8B)
 - [jQuery](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/jQuery)
 - [Vue.js](https://github.com/gaoxinge/network/tree/master/front%20end/javascript/Vue.js)
