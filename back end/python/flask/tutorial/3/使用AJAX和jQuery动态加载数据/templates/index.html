@@ -1,0 +1,29 @@
+{% block head %}
+<title>Example</title>
+<script>
+	function get() {
+		var request = new XMLHttpRequest();
+		request.onreadystatechange = function () {
+			var text = document.getElementById('result');
+			text.innerText = JSON.parse(request.responseText)['result'];
+		};
+		
+		var a = document.getElementsByTagName('input')[0];
+		var b = document.getElementsByTagName('input')[1];
+		url = '/calculate?' + 'a=' + a.value + '&b=' + b.value;
+		
+		request.open('GET', url);
+		request.send();
+	}
+</script>
+{% endblock %}
+
+{% block body %}
+<h1>Example</h1>
+<p>
+  <input type="text" size="5" name="a"> +
+  <input type="text" size="5" name="b"> =
+  <span id="result">?</span>
+</p>
+<button type="button" onclick="get()">calculate server side</button>
+{% endblock %}
