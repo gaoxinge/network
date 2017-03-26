@@ -7,6 +7,7 @@
 - [You-Dont-Need-Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
 - [Bootstrap](http://getbootstrap.com/)
 - [Semantic UI](https://semantic-ui.com/)
+- [Fundation](http://foundation.zurb.com/)
 
 ## javascript
 
@@ -17,7 +18,7 @@
 - [ECMAScript6入门](https://github.com/gaoxinge/network/tree/master/front%20end/ECMAScript6%E5%85%A5%E9%97%A8)
 - [廖雪峰JavaScript教程](https://github.com/gaoxinge/network/tree/master/front%20end/%E5%BB%96%E9%9B%AA%E5%B3%B0JavaScript%E6%95%99%E7%A8%8B)
 - [jQuery](https://github.com/gaoxinge/network/tree/master/front%20end/jQuery)
-- [Vue.js](https://github.com/gaoxinge/network/tree/master/front%20end/Vue.js)
+- [Vue.js](https://cn.vuejs.org)
 - [Angular Js](https://angularjs.org/)
 - [React](https://facebook.github.io/react/)
 
