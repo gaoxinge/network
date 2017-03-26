@@ -33,6 +33,7 @@ JSON           ---> Object.prototype   ---> null
 - __lookupGetter__
 - __lookupSetter__
 - __proto__
+- prototype（函数对象）
 - constructor
 - hasOwnProperty
 - isPropertyOf
@@ -40,7 +41,6 @@ JSON           ---> Object.prototype   ---> null
 - toLocaleString
 - toString
 - valueOf
-- prototype（函数对象）
 
 ## typeof和instanceof
 

@@ -29,6 +29,7 @@
 - Object.getOwnPropertyDescriptor(obj, xxx)：可以查看属性xxx的描述
 - obj.propertyisEnumerable(xxx)：可以查看属性xxx是否可枚举
 - Object.keys(obj)：可以查看所有可枚举的固有属性
+- Object.getOwnPropertyNames(obj)：可以查看所有的固有属性
 - obj.hasOwnProperty(xxx)：可以查看xxx是否是obj的固有属性
 - xxx in obj：可以查看xxx是否在obj的原型链中
 
