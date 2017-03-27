@@ -1,0 +1,10 @@
+<title>upload</title>
+<h1>upload</h1>
+<form action="" method="post" enctype="multipart/form-data">
+	<input type="file" name="uploaded_file">
+	<input type="submit" value="Upload">
+</form>
+
+{% for url in urls %}
+	{{ url }}<br>
+{% endfor %}
