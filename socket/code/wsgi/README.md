@@ -1,0 +1,2 @@
+- [WSGI必知必会](https://my.oschina.net/crooner/blog/609030)
+- [自己写一个wsgi服务器运行Django、Tornado等框架应用](http://python.jobbole.com/85296/)
