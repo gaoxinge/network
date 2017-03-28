@@ -24,7 +24,7 @@
 - [从零开始写JavaScript框架（一）](http://blog.jobbole.com/43649/)
 - [从零开始编写自己的JavaScript框架(一)](http://sentsin.com/web/198.html)
 - [js库写法](http://www.cnblogs.com/kuailingmin/p/4208863.html)
-- [构建你第一个Javascript框架(https://www.oschina.net/translate/build-your-first-javascript-library)
+- [构建你第一个Javascript框架](https://www.oschina.net/translate/build-your-first-javascript-library)
 - [我是怎么写JavaScript框架的（一）](https://segmentfault.com/a/1190000002465399)
 - [JS---创建自己的“JavaScript库”，原来如此简单](http://blog.csdn.net/mazhaojuan/article/details/7659906)
 
