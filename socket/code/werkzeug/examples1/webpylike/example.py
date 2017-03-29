@@ -1,4 +1,5 @@
 from webpylike import WebPyApp, View, Response
+from werkzeug.serving import run_simple
 
 urls = (
     '/',      'index',
@@ -14,3 +15,4 @@ class about(View):
         return Response('This is the about page')
         
 app = WebPyApp(urls, globals())
+run_simple('', 5000, app)

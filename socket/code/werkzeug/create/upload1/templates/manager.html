@@ -1,0 +1,10 @@
+<title>manager</title>
+<a href="/">upload</a>
+
+<h1>manager</h1>
+{% for url in urls %}
+	{{ url }}
+	<a href="/view/{{ url }}">view</a>
+	<a href="/delete/{{ url }}">delete</a>
+	<br>
+{% endfor %}
