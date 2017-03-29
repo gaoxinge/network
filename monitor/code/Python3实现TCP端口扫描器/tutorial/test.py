@@ -1,5 +1,5 @@
-from time import *
-from socket import *
+from time import localtime
+from socket import AF_INET, SOCK_STREAM, socket, setdefaulttimeout
 
 def portScanner(host, port):
     a = localtime()
