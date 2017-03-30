@@ -1,2 +1,4 @@
 - [用Python写一个简单的Web框架](http://python.jobbole.com/83817/)
+- [How to write a web framework in Python](http://anandology.com/blog/how-to-write-a-web-framework-in-python/)
+- [Why so many Python web frameworks?](https://bitworking.org/news/Why_so_many_Python_web_frameworks)
 - [实战](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001397616003925a3d157284cd24bc0952d6c4a7c9d8c55000)
