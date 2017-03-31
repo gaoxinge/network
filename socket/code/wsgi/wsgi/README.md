@@ -2,3 +2,5 @@
 - [理解Python WSGI](http://www.letiantian.me/2015-09-10-understand-python-wsgi/)
 - [WSGI必知必会](https://my.oschina.net/crooner/blog/609030)
 - [自己写一个wsgi服务器运行Django、Tornado等框架应用](http://python.jobbole.com/85296/)
+- [python wsgi简介](http://cizixs.com/2014/11/08/understand-wsgi)
+- [wsgi初探](http://linluxiang.iteye.com/blog/799163)
