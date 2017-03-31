@@ -5,41 +5,10 @@ try:
 except ImportError:
     from StringIO import StringIO
 
-# thread local object for storing request and response:
-
 ctx = threading.local()
 
-# Dict object:
-
 class Dict(dict):
-    '''
-    Simple dict but support access as x.y style.
-    >>> d1 = Dict()
-    >>> d1['x'] = 100
-    >>> d1.x
-    100
-    >>> d1.y = 200
-    >>> d1['y']
-    200
-    >>> d2 = Dict(a=1, b=2, c='3')
-    >>> d2.c
-    '3'
-    >>> d2['empty']
-    Traceback (most recent call last):
-        ...
-    KeyError: 'empty'
-    >>> d2.empty
-    Traceback (most recent call last):
-        ...
-    AttributeError: 'Dict' object has no attribute 'empty'
-    >>> d3 = Dict(('a', 'b', 'c'), (1, 2, 3))
-    >>> d3.a
-    1
-    >>> d3.b
-    2
-    >>> d3.c
-    3
-    '''
+
     def __init__(self, names=(), values=(), **kw):
         super(Dict, self).__init__(**kw)
         for k, v in zip(names, values):
@@ -49,43 +18,16 @@ class Dict(dict):
         try:
             return self[key]
         except KeyError:
-            raise AttributeError(r"'Dict' object has no attribute '%s'" % key)
+            raise AttributeError('\'Dict\' object has no attribute \'%s\'' % key)
 
     def __setattr__(self, key, value):
         self[key] = value
 
 _TIMEDELTA_ZERO = datetime.timedelta(0)
 
-# timezone as UTC+8:00, UTC-10:00
-
 _RE_TZ = re.compile('^([\+\-])([0-9]{1,2})\:([0-9]{1,2})$')
 
 class UTC(datetime.tzinfo):
-    '''
-    A UTC tzinfo object. 
-    >>> tz0 = UTC('+00:00')
-    >>> tz0.tzname(None)
-    'UTC+00:00'
-    >>> tz8 = UTC('+8:00')
-    >>> tz8.tzname(None)
-    'UTC+8:00'
-    >>> tz7 = UTC('+7:30')
-    >>> tz7.tzname(None)
-    'UTC+7:30'
-    >>> tz5 = UTC('-05:30')
-    >>> tz5.tzname(None)
-    'UTC-05:30'
-    >>> from datetime import datetime
-    >>> u = datetime.utcnow().replace(tzinfo=tz0)
-    >>> l1 = u.astimezone(tz8)
-    >>> l2 = u.replace(tzinfo=tz8)
-    >>> d1 = u - l1
-    >>> d2 = u - l2
-    >>> d1.seconds
-    0
-    >>> d2.seconds
-    28800
-    '''
 
     def __init__(self, utc):
         utc = str(utc.strip().upper())
@@ -115,9 +57,10 @@ class UTC(datetime.tzinfo):
 
     __repr__ = __str__
 
-# all known response statues:
-
+_RE_RESPONSE_STATUS = re.compile(r'^\d\d\d(\ [\w\ ]+)?$')
+    
 _RESPONSE_STATUSES = {
+
     # Informational
     100: 'Continue',
     101: 'Switching Protocols',
@@ -179,8 +122,6 @@ _RESPONSE_STATUSES = {
     510: 'Not Extended',
 }
 
-_RE_RESPONSE_STATUS = re.compile(r'^\d\d\d(\ [\w\ ]+)?$')
-
 _RESPONSE_HEADERS = (
     'Accept-Ranges',
     'Age',
@@ -228,16 +169,8 @@ _RESPONSE_HEADER_DICT = dict(zip(map(lambda x: x.upper(), _RESPONSE_HEADERS), _R
 _HEADER_X_POWERED_BY = ('X-Powered-By', 'transwarp/1.0')
 
 class HttpError(Exception):
-    '''
-    HttpError that defines http error code.
-    >>> e = HttpError(404)
-    >>> e.status
-    '404 Not Found'
-    '''
+
     def __init__(self, code):
-        '''
-        Init an HttpError with response code.
-        '''
         super(HttpError, self).__init__()
         self.status = '%d %s' % (code, _RESPONSE_STATUSES[code])
 
@@ -258,18 +191,8 @@ class HttpError(Exception):
     __repr__ = __str__
 
 class RedirectError(HttpError):
-    '''
-    RedirectError that defines http redirect code.
-    >>> e = RedirectError(302, 'http://www.apple.com/')
-    >>> e.status
-    '302 Found'
-    >>> e.location
-    'http://www.apple.com/'
-    '''
+
     def __init__(self, code, location):
-        '''
-        Init an HttpError with response code.
-        '''
         super(RedirectError, self).__init__(code)
         self.location = location
 
@@ -279,96 +202,30 @@ class RedirectError(HttpError):
     __repr__ = __str__
 
 def badrequest():
-    '''
-    Send a bad request response.
-    >>> raise badrequest()
-    Traceback (most recent call last):
-      ...
-    HttpError: 400 Bad Request
-    '''
     return HttpError(400)
 
 def unauthorized():
-    '''
-    Send an unauthorized response.
-    >>> raise unauthorized()
-    Traceback (most recent call last):
-      ...
-    HttpError: 401 Unauthorized
-    '''
     return HttpError(401)
 
 def forbidden():
-    '''
-    Send a forbidden response.
-    >>> raise forbidden()
-    Traceback (most recent call last):
-      ...
-    HttpError: 403 Forbidden
-    '''
     return HttpError(403)
 
 def notfound():
-    '''
-    Send a not found response.
-    >>> raise notfound()
-    Traceback (most recent call last):
-      ...
-    HttpError: 404 Not Found
-    '''
     return HttpError(404)
 
 def conflict():
-    '''
-    Send a conflict response.
-    >>> raise conflict()
-    Traceback (most recent call last):
-      ...
-    HttpError: 409 Conflict
-    '''
     return HttpError(409)
 
 def internalerror():
-    '''
-    Send an internal error response.
-    >>> raise internalerror()
-    Traceback (most recent call last):
-      ...
-    HttpError: 500 Internal Server Error
-    '''
     return HttpError(500)
 
 def redirect(location):
-    '''
-    Do permanent redirect.
-    >>> raise redirect('http://www.itranswarp.com/')
-    Traceback (most recent call last):
-      ...
-    RedirectError: 301 Moved Permanently, http://www.itranswarp.com/
-    '''
     return RedirectError(301, location)
 
 def found(location):
-    '''
-    Do temporary redirect.
-    >>> raise found('http://www.itranswarp.com/')
-    Traceback (most recent call last):
-      ...
-    RedirectError: 302 Found, http://www.itranswarp.com/
-    '''
     return RedirectError(302, location)
 
 def seeother(location):
-    '''
-    Do temporary redirect.
-    >>> raise seeother('http://www.itranswarp.com/')
-    Traceback (most recent call last):
-      ...
-    RedirectError: 303 See Other, http://www.itranswarp.com/
-    >>> e = seeother('http://www.itranswarp.com/seeother?r=123')
-    >>> e.location
-    'http://www.itranswarp.com/seeother?r=123'
-    '''
     return RedirectError(303, location)
 
 def _to_str(s):
