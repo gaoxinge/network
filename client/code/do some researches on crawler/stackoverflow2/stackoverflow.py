@@ -1,16 +1,12 @@
+import threadpool
 import requests
 from lxml import etree
-from utils import Spider, Item
+from Item import Item
 
-spider = Spider(['http://stackoverflow.com/questions/?page=' + str(i) + '&sort=votes' for i in range(1, 3)])
-spider.config = open('stackoverflow.txt', 'w')
-
-@spider.http
 def http(url):
     response = requests.get(url)
     return response
-
-@spider.parse
+    
 def parse(response):
     Question = Item('Question', ['votes', 'answers', 'views', 'title', 'link'])
     root = etree.HTML(response.text)
@@ -23,9 +19,22 @@ def parse(response):
         question['title']   = result.xpath('div[@class=\'summary\']/h3/a/text()')[0]
         question['link']    = result.xpath('div[@class=\'summary\']/h3/a/@href')[0]
         yield question
-
-@spider.store
+        
 def store(item):
-    spider.config.write(str(item) + '\n')
+    f.write(str(item) + '\n')
 
-spider.run(method='syschronous')
+def http_parse_store(url):
+    response = http(url)
+    items = parse(response)
+    for item in items:
+        store(item)
+
+urls = ['http://stackoverflow.com/questions/?page=' + str(i) + '&sort=votes' for i in range(1,4)]
+f = open('stackoverflow.txt', 'w')
+
+pool = threadpool.ThreadPool(5)
+reqs = threadpool.makeRequests(http_parse_store, urls)
+[pool.putRequest(req) for req in reqs]
+pool.wait()
+
+f.close()

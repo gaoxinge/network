@@ -1,0 +1,100 @@
+{'votes': '17504', 'title': 'Why is it faster to process a sorted array than an unsorted array?', 'link': '/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array', 'answers': '14', 'views': '966k views'}
+{'votes': '13599', 'title': 'How to undo last commit(s) in Git?', 'link': '/questions/927358/how-to-undo-last-commits-in-git', 'answers': '58', 'views': '4.6m views'}
+{'votes': '9961', 'title': 'How to delete a Git branch both locally and remotely?', 'link': '/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely', 'answers': '33', 'views': '3.9m views'}
+{'votes': '7737', 'title': 'What is the correct JSON content type?', 'link': '/questions/477816/what-is-the-correct-json-content-type', 'answers': '33', 'views': '1.7m views'}
+{'votes': '7687', 'title': 'How to modify existing, unpushed commits?', 'link': '/questions/179123/how-to-modify-existing-unpushed-commits', 'answers': '27', 'views': '1.9m views'}
+{'votes': '7612', 'title': "What is the difference between 'git pull' and 'git fetch'?", 'link': '/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch', 'answers': '37', 'views': '1.7m views'}
+{'votes': '7348', 'title': 'How do JavaScript closures work?', 'link': '/questions/111102/how-do-javascript-closures-work', 'answers': '85', 'views': '996k views'}
+{'votes': '6369', 'title': u'What is the \u201c-->\u201d operator in C++?', 'link': '/questions/1642028/what-is-the-operator-in-c', 'answers': '20', 'views': '497k views'}
+{'votes': '6311', 'title': 'How to redirect to another webpage in JavaScript/jQuery?', 'link': '/questions/503093/how-to-redirect-to-another-webpage-in-javascript-jquery', 'answers': '64', 'views': '3.7m views'}
+{'votes': '6196', 'title': u'What does the \u201cyield\u201d keyword do in Python?', 'link': '/questions/231767/what-does-the-yield-keyword-do-in-python', 'answers': '32', 'views': '1.2m views'}
+{'votes': '5885', 'title': 'How to check whether a string contains a substring in JavaScript?', 'link': '/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript', 'answers': '45', 'views': '3.7m views'}
+{'votes': '5860', 'title': 'What and where are the stack and heap?', 'link': '/questions/79923/what-and-where-are-the-stack-and-heap', 'answers': '21', 'views': '987k views'}
+{'votes': '5784', 'title': "How to undo 'git add' before commit?", 'link': '/questions/348170/how-to-undo-git-add-before-commit', 'answers': '28', 'views': '1.6m views'}
+{'votes': '5504', 'title': u'What does \u201cuse strict\u201d do in JavaScript, and what is the reasoning behind it?', 'link': '/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it', 'answers': '25', 'views': '766k views'}
+{'votes': '5488', 'title': 'How do I check if an element is hidden in jQuery?', 'link': '/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery', 'answers': '44', 'views': '1.8m views'}
+{'votes': '5199', 'title': u'Why does HTML think \u201cchucknorris\u201d is a color?', 'link': '/questions/8318911/why-does-html-think-chucknorris-is-a-color', 'answers': '6', 'views': '338k views'}
+{'votes': '5018', 'title': 'Why is subtracting these two times (in 1927) giving a strange result?', 'link': '/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result', 'answers': '9', 'views': '442k views'}
+{'votes': '4929', 'title': 'var functionName = function() {} vs function functionName() {}', 'link': '/questions/336859/var-functionname-function-vs-function-functionname', 'answers': '27', 'views': '735k views'}
+{'votes': '4919', 'title': 'How do I rename a local Git branch?', 'link': '/questions/6591213/how-do-i-rename-a-local-git-branch', 'answers': '19', 'views': '1.3m views'}
+{'votes': '4535', 'title': u'\u201cThinking in AngularJS\u201d if I have a jQuery background? [closed]', 'link': '/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background', 'answers': '15', 'views': '718k views'}
+{'votes': '4494', 'title': 'Which equals operator (== vs ===) should be used in JavaScript comparisons?', 'link': '/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons', 'answers': '42', 'views': '1.0m views'}
+{'votes': '4447', 'title': 'How to revert Git repository to a previous commit?', 'link': '/questions/4114095/how-to-revert-git-repository-to-a-previous-commit', 'answers': '28', 'views': '2.9m views'}
+{'votes': '4439', 'title': 'The definitive guide to form-based website authentication [closed]', 'link': '/questions/549/the-definitive-guide-to-form-based-website-authentication', 'answers': '12', 'views': '470k views'}
+{'votes': '4414', 'title': 'How to remove local (untracked) files from the current Git working tree?', 'link': '/questions/61212/how-to-remove-local-untracked-files-from-the-current-git-working-tree', 'answers': '26', 'views': '1.2m views'}
+{'votes': '4355', 'title': 'Can comments be used in JSON?', 'link': '/questions/244777/can-comments-be-used-in-json', 'answers': '41', 'views': '897k views'}
+{'votes': '4261', 'title': 'The Definitive C++ Book Guide and List', 'link': '/questions/388242/the-definitive-c-book-guide-and-list', 'answers': '1', 'views': '1.5m views'}
+{'votes': '4254', 'title': u'What is the difference between \u201cpx\u201d, \u201cdp\u201d, \u201cdip\u201d and \u201csp\u201d on Android?', 'link': '/questions/2025282/what-is-the-difference-between-px-dp-dip-and-sp-on-android', 'answers': '34', 'views': '884k views'}
+{'votes': '4175', 'title': u'How to pass \u201cNull\u201d (a real surname!) to a SOAP web service in ActionScript 3?', 'link': '/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3', 'answers': '9', 'views': '876k views'}
+{'votes': '4172', 'title': 'What is the difference between String and string in C#?', 'link': '/questions/7074/what-is-the-difference-between-string-and-string-in-c', 'answers': '50', 'views': '682k views'}
+{'votes': '4133', 'title': u'Is Java \u201cpass-by-reference\u201d or \u201cpass-by-value\u201d?', 'link': '/questions/40480/is-java-pass-by-reference-or-pass-by-value', 'answers': '77', 'views': '1.2m views'}
+{'votes': '4121', 'title': 'How to remove a particular element from an array in JavaScript?', 'link': '/questions/5767325/how-to-remove-a-particular-element-from-an-array-in-javascript', 'answers': '46', 'views': '3.1m views'}
+{'votes': '3913', 'title': u'What is a plain English explanation of \u201cBig O\u201d notation?', 'link': '/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation', 'answers': '32', 'views': '507k views'}
+{'votes': '3905', 'title': 'How to check out a remote Git branch?', 'link': '/questions/1783405/how-to-check-out-a-remote-git-branch', 'answers': '14', 'views': '2.6m views'}
+{'votes': '3682', 'title': 'How do I remove a property from a JavaScript object?', 'link': '/questions/208105/how-do-i-remove-a-property-from-a-javascript-object', 'answers': '19', 'views': '1.2m views'}
+{'votes': '3675', 'title': u'How do I force \u201cgit pull\u201d to overwrite local files?', 'link': '/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files', 'answers': '34', 'views': '2.0m views'}
+{'votes': '3574', 'title': 'What is the most efficient way to deep clone an object in JavaScript?', 'link': '/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript', 'answers': '47', 'views': '1.2m views'}
+{'votes': '3563', 'title': 'How to disable text selection highlighting using CSS?', 'link': '/questions/826782/how-to-disable-text-selection-highlighting-using-css', 'answers': '32', 'views': '1.2m views'}
+{'votes': '3546', 'title': 'What is a metaclass in Python?', 'link': '/questions/100003/what-is-a-metaclass-in-python', 'answers': '12', 'views': '468k views'}
+{'votes': '3478', 'title': 'How to resolve merge conflicts in Git?', 'link': '/questions/161813/how-to-resolve-merge-conflicts-in-git', 'answers': '25', 'views': '1.6m views'}
+{'votes': '3469', 'title': 'PUT vs POST in REST', 'link': '/questions/630453/put-vs-post-in-rest', 'answers': '28', 'views': '1.1m views'}
+{'votes': '3397', 'title': 'What is the maximum length of a URL in different browsers?', 'link': '/questions/417142/what-is-the-maximum-length-of-a-url-in-different-browsers', 'answers': '16', 'views': '772k views'}
+{'votes': '3305', 'title': u'What is the difference between \u201cINNER JOIN\u201d and \u201cOUTER JOIN\u201d?', 'link': '/questions/38549/what-is-the-difference-between-inner-join-and-outer-join', 'answers': '29', 'views': '1.7m views'}
+{'votes': '3288', 'title': 'How do I include a JavaScript file in another JavaScript file?', 'link': '/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file', 'answers': '44', 'views': '1.9m views'}
+{'votes': '3210', 'title': 'How to check whether a checkbox is checked in jQuery?', 'link': '/questions/901712/how-to-check-whether-a-checkbox-is-checked-in-jquery', 'answers': '55', 'views': '2.9m views'}
+{'votes': '3186', 'title': 'Getting the source directory of a Bash script from within', 'link': '/questions/59895/getting-the-source-directory-of-a-bash-script-from-within', 'answers': '47', 'views': '989k views'}
+{'votes': '3158', 'title': u'Which \u201chref\u201d value should I use for JavaScript links, \u201c#\u201d or \u201cjavascript:void(0)\u201d?', 'link': '/questions/134845/which-href-value-should-i-use-for-javascript-links-or-javascriptvoid0', 'answers': '49', 'views': '1.9m views'}
+{'votes': '3119', 'title': 'How do I check whether a file exists using Python?', 'link': '/questions/82831/how-do-i-check-whether-a-file-exists-using-python', 'answers': '37', 'views': '1.9m views'}
+{'votes': '3099', 'title': 'How to pair socks from a pile efficiently?', 'link': '/questions/14415881/how-to-pair-socks-from-a-pile-efficiently', 'answers': '35', 'views': '313k views'}
+{'votes': '3062', 'title': 'How to clone all remote branches in Git?', 'link': '/questions/67699/how-to-clone-all-remote-branches-in-git', 'answers': '30', 'views': '798k views'}
+{'votes': '3059', 'title': 'Does Python have a ternary conditional operator?', 'link': '/questions/394809/does-python-have-a-ternary-conditional-operator', 'answers': '18', 'views': '865k views'}
+{'votes': '2984', 'title': "Change an HTML5 input's placeholder color with CSS", 'link': '/questions/2610497/change-an-html5-inputs-placeholder-color-with-css', 'answers': '27', 'views': '1.3m views'}
+{'votes': '2979', 'title': u'Setting \u201cchecked\u201d for a checkbox with jQuery?', 'link': '/questions/426258/setting-checked-for-a-checkbox-with-jquery', 'answers': '36', 'views': '2.3m views'}
+{'votes': '2974', 'title': 'What is the difference between a URI, a URL and a URN?', 'link': '/questions/176264/what-is-the-difference-between-a-uri-a-url-and-a-urn', 'answers': '31', 'views': '697k views'}
+{'votes': '2970', 'title': 'How do I discard unstaged changes in Git?', 'link': '/questions/52704/how-do-i-discard-unstaged-changes-in-git', 'answers': '28', 'views': '1.4m views'}
+{'votes': '2950', 'title': 'Reference - What does this symbol mean in PHP?', 'link': '/questions/3737139/reference-what-does-this-symbol-mean-in-php', 'answers': '14', 'views': '431k views'}
+{'votes': '2945', 'title': 'For-each over an array in JavaScript?', 'link': '/questions/9329446/for-each-over-an-array-in-javascript', 'answers': '18', 'views': '2.7m views'}
+{'votes': '2941', 'title': 'Avoiding != null statements', 'link': '/questions/271526/avoiding-null-statements', 'answers': '52', 'views': '893k views'}
+{'votes': '2925', 'title': 'How to horizontally center a <div> in another <div>?', 'link': '/questions/114543/how-to-horizontally-center-a-div-in-another-div', 'answers': '64', 'views': '2.8m views'}
+{'votes': '2896', 'title': "Java's +=, -=, *=, /= compound assignment operators", 'link': '/questions/8710619/javas-compound-assignment-operators', 'answers': '10', 'views': '185k views'}
+{'votes': '2853', 'title': "Regular expression to match a line that doesn't contain a word?", 'link': '/questions/406230/regular-expression-to-match-a-line-that-doesnt-contain-a-word', 'answers': '23', 'views': '2.0m views'}
+{'votes': '2853', 'title': 'How do I return the response from an asynchronous call?', 'link': '/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call', 'answers': '16', 'views': '778k views'}
+{'votes': '2822', 'title': 'How can I add an empty directory to a Git repository?', 'link': '/questions/115983/how-can-i-add-an-empty-directory-to-a-git-repository', 'answers': '30', 'views': '525k views'}
+{'votes': '2815', 'title': 'AngularJS: Service vs provider vs factory', 'link': '/questions/15666048/angularjs-service-vs-provider-vs-factory', 'answers': '28', 'views': '663k views'}
+{'votes': '2785', 'title': 'How can I prevent SQL injection in PHP?', 'link': '/questions/60174/how-can-i-prevent-sql-injection-in-php', 'answers': '28', 'views': '1.1m views'}
+{'votes': '2775', 'title': 'Move the most recent commit(s) to a new branch with Git', 'link': '/questions/1628563/move-the-most-recent-commits-to-a-new-branch-with-git', 'answers': '8', 'views': '437k views'}
+{'votes': '2762', 'title': 'What exactly is RESTful programming?', 'link': '/questions/671118/what-exactly-is-restful-programming', 'answers': '29', 'views': '976k views'}
+{'votes': '2727', 'title': 'How do you get a timestamp in JavaScript?', 'link': '/questions/221294/how-do-you-get-a-timestamp-in-javascript', 'answers': '32', 'views': '1.7m views'}
+{'votes': '2706', 'title': 'How can I get query string values in JavaScript?', 'link': '/questions/901115/how-can-i-get-query-string-values-in-javascript', 'answers': '73', 'views': '2.5m views'}
+{'votes': '2695', 'title': 'How do I push a new local branch to a remote Git repository and track it too?', 'link': '/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too', 'answers': '12', 'views': '1.8m views'}
+{'votes': '2679', 'title': 'Why is the Android emulator so slow? How can we speed up the Android emulator?', 'link': '/questions/1554099/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator', 'answers': '75', 'views': '850k views'}
+{'votes': '2638', 'title': 'Calling an external command in Python', 'link': '/questions/89228/calling-an-external-command-in-python', 'answers': '44', 'views': '1.8m views'}
+{'votes': '2629', 'title': u'What does if __name__ == \u201c__main__\u201d: do?', 'link': '/questions/419163/what-does-if-name-main-do', 'answers': '17', 'views': '1.1m views'}
+{'votes': '2617', 'title': 'Proper use cases for Android UserManager.isUserAGoat()?', 'link': '/questions/13375357/proper-use-cases-for-android-usermanager-isuseragoat', 'answers': '11', 'views': '233k views'}
+{'votes': '2589', 'title': 'Flash CS4 refuses to let go', 'link': '/questions/2193953/flash-cs4-refuses-to-let-go', 'answers': '7', 'views': '103k views'}
+{'votes': '2573', 'title': 'Make an existing Git branch track a remote branch?', 'link': '/questions/520650/make-an-existing-git-branch-track-a-remote-branch', 'answers': '18', 'views': '780k views'}
+{'votes': '2563', 'title': 'How do I remove a submodule?', 'link': '/questions/1260748/how-do-i-remove-a-submodule', 'answers': '20', 'views': '507k views'}
+{'votes': '2562', 'title': 'Using a regular expression to validate an email address', 'link': '/questions/201323/using-a-regular-expression-to-validate-an-email-address', 'answers': '73', 'views': '864k views'}
+{'votes': '2550', 'title': 'Read/convert an InputStream to a String', 'link': '/questions/309424/read-convert-an-inputstream-to-a-string', 'answers': '50', 'views': '1.3m views'}
+{'votes': '2545', 'title': 'How do I enumerate an enum?', 'link': '/questions/105372/how-do-i-enumerate-an-enum', 'answers': '25', 'views': '483k views'}
+{'votes': '2531', 'title': 'Why does Google prepend while(1); to their JSON responses?', 'link': '/questions/2669690/why-does-google-prepend-while1-to-their-json-responses', 'answers': '5', 'views': '239k views'}
+{'votes': '2530', 'title': 'Reset or revert a specific file to a specific revision using Git?', 'link': '/questions/215718/reset-or-revert-a-specific-file-to-a-specific-revision-using-git', 'answers': '25', 'views': '955k views'}
+{'votes': '2530', 'title': 'How do I check if an array includes an object in JavaScript?', 'link': '/questions/237104/how-do-i-check-if-an-array-includes-an-object-in-javascript', 'answers': '33', 'views': '1.7m views'}
+{'votes': '2522', 'title': 'Differences between HashMap and Hashtable?', 'link': '/questions/40471/differences-between-hashmap-and-hashtable', 'answers': '35', 'views': '1.0m views'}
+{'votes': '2494', 'title': 'Set cellpadding and cellspacing in CSS?', 'link': '/questions/339923/set-cellpadding-and-cellspacing-in-css', 'answers': '24', 'views': '1.8m views'}
+{'votes': '2492', 'title': 'Create GUID / UUID in JavaScript?', 'link': '/questions/105034/create-guid-uuid-in-javascript', 'answers': '45', 'views': '887k views'}
+{'votes': '2427', 'title': 'Close/hide the Android Soft Keyboard', 'link': '/questions/1109022/close-hide-the-android-soft-keyboard', 'answers': '57', 'views': '959k views'}
+{'votes': '2391', 'title': "Undo a Git merge that hasn't been pushed yet", 'link': '/questions/2389361/undo-a-git-merge-that-hasnt-been-pushed-yet', 'answers': '24', 'views': '1.2m views'}
+{'votes': '2368', 'title': 'Check if a directory exists in a shell script', 'link': '/questions/59838/check-if-a-directory-exists-in-a-shell-script', 'answers': '28', 'views': '1.7m views'}
+{'votes': '2358', 'title': 'Validate email address in JavaScript?', 'link': '/questions/46155/validate-email-address-in-javascript', 'answers': '57', 'views': '1.6m views'}
+{'votes': '2338', 'title': 'Why is char[] preferred over String for passwords?', 'link': '/questions/8881291/why-is-char-preferred-over-string-for-passwords', 'answers': '14', 'views': '237k views'}
+{'votes': '2337', 'title': 'How to UPDATE from a SELECT in SQL Server?', 'link': '/questions/2334712/how-to-update-from-a-select-in-sql-server', 'answers': '25', 'views': '2.6m views'}
+{'votes': '2334', 'title': 'What is the difference between call and apply?', 'link': '/questions/1986896/what-is-the-difference-between-call-and-apply', 'answers': '18', 'views': '533k views'}
+{'votes': '2332', 'title': 'Create ArrayList from array', 'link': '/questions/157944/create-arraylist-from-array', 'answers': '23', 'views': '967k views'}
+{'votes': '2294', 'title': 'Iterate through a HashMap [duplicate]', 'link': '/questions/1066589/iterate-through-a-hashmap', 'answers': '7', 'views': '2.4m views'}
+{'votes': '2273', 'title': 'How to generate random integers within a specific range in Java?', 'link': '/questions/363681/how-to-generate-random-integers-within-a-specific-range-in-java', 'answers': '44', 'views': '2.7m views'}
+{'votes': '2259', 'title': 'How do I make the first letter of a string uppercase in JavaScript?', 'link': '/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript', 'answers': '55', 'views': '1.0m views'}
+{'votes': '2252', 'title': 'event.preventDefault() vs. return false', 'link': '/questions/1357118/event-preventdefault-vs-return-false', 'answers': '9', 'views': '626k views'}
+{'votes': '2238', 'title': 'How to replace all occurrences of a string in JavaScript?', 'link': '/questions/1144783/how-to-replace-all-occurrences-of-a-string-in-javascript', 'answers': '32', 'views': '1.7m views'}
+{'votes': '2211', 'title': 'How to merge two Python dictionaries in a single expression?', 'link': '/questions/38987/how-to-merge-two-python-dictionaries-in-a-single-expression', 'answers': '38', 'views': '751k views'}
+{'votes': '2206', 'title': 'How can I upload files asynchronously?', 'link': '/questions/166221/how-can-i-upload-files-asynchronously', 'answers': '25', 'views': '1.0m views'}

@@ -25,7 +25,7 @@ class Spider(object):
         response = self.basic['http'](url)
         items = self.basic['parse'](response)
         for item in items:
-            self.basic['store'](self.config, item)
+            self.basic['store'](item)
             
     def run_with_syschronous(self):
         while self.urls:
@@ -34,5 +34,5 @@ class Spider(object):
         self.config.close()
         
     def run(self, method='syschronous'):
-        run_with = object.__getattribute__(self, 'run_with' + method)
+        run_with = self.__getattribute__('run_with_' + method)
         run_with()
