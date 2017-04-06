@@ -30,5 +30,5 @@ def store(item):
     spider.config.write(str(item) + '\n')
 
 start = time.time()
-spider.run(method='syschronous')
+spider.run(3)
 print time.time() - start

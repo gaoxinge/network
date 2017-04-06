@@ -1,8 +1,10 @@
 import requests
 from lxml import etree
 from utils import Spider, Log, Item
+import time
 
-spider = Spider(['https://movie.douban.com/tag/2016?start=' + str((i-1)*20) for i in range(1, 10)])
+spider = Spider(['https://movie.douban.com/tag/2016?start=' + str((i-1)*20) for i in range(1, 30)])
+spider.config = open('douban.txt', 'wb')
 
 @spider.http
 def http(url):
@@ -25,6 +27,8 @@ def parse(response):
         
 @spider.store
 def store(item):
-    Log('store', 'omit', str(item))
+    spider.config.write(str(item) + '\n')
 
+start = time.time()
 spider.run(method='multithread')
+print time.time() - start

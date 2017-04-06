@@ -1,0 +1,478 @@
+{'vote': 32251, 'rating': 8.6, 'title': u'\u770b\u4e0d\u89c1\u7684\u5ba2\u4eba'}
+{'vote': 91448, 'rating': 8.6, 'title': u'\u6d77\u8fb9\u7684\u66fc\u5f7b\u65af\u7279'}
+{'vote': 85489, 'rating': 8.2, 'title': u'\u6b22\u4e50\u597d\u58f0\u97f3'}
+{'vote': 150374, 'rating': 7.7, 'title': u'\u7f57\u66fc\u8482\u514b\u6d88\u4ea1\u53f2'}
+{'vote': 65162, 'rating': 6.1, 'title': u'\u60c5\u5723'}
+{'vote': 222082, 'rating': 7.9, 'title': u'\u795e\u5947\u52a8\u7269\u5728\u54ea\u91cc'}
+{'vote': 105216, 'rating': 6.7, 'title': u'\u751f\u5316\u5371\u673a\uff1a\u7ec8\u7ae0'}
+{'vote': 258624, 'rating': 8.4, 'title': u'\u7231\u4e50\u4e4b\u57ce'}
+{'vote': 46135, 'rating': 7.2, 'title': u'\u6708\u5149\u7537\u5b69'}
+{'vote': 29071, 'rating': 6.8, 'title': u'\u4f60\u597d\uff0c\u75af\u5b50\uff01'}
+{'vote': 41884, 'rating': 5.5, 'title': u'\u523a\u5ba2\u4fe1\u6761'}
+{'vote': 8883, 'rating': 8.6, 'title': u'\u65af\u9686\u5973\u58eb'}
+{'vote': 20992, 'rating': 7.5, 'title': u'\u5929\u624d\u6355\u624b'}
+{'vote': 245906, 'rating': 8.7, 'title': u'\u8840\u6218\u94a2\u952f\u5cad'}
+{'vote': 344354, 'rating': 8.5, 'title': u'\u4f60\u7684\u540d\u5b57\u3002'}
+{'vote': 251551, 'rating': 8.3, 'title': u'\u9a74\u5f97\u6c34'}
+{'vote': 91995, 'rating': 7.3, 'title': u'\u661f\u7403\u5927\u6218\u5916\u4f20\uff1a\u4fa0\u76d7\u4e00\u53f7'}
+{'vote': 210505, 'rating': 7.7, 'title': u'\u5947\u5f02\u535a\u58eb'}
+{'vote': 55339, 'rating': 7.6, 'title': u'\u6d77\u6d0b\u5947\u7f18'}
+{'vote': 196670, 'rating': 5.0, 'title': u'\u957f\u57ce'}
+{'vote': 9230, 'rating': 7.9, 'title': u'\u6740\u622e\u90fd\u5e02\uff1aO'}
+{'vote': 13565, 'rating': 7.3, 'title': u'\u5206\u88c2'}
+{'vote': 86415, 'rating': 6.9, 'title': u'\u592a\u7a7a\u65c5\u5ba2'}
+{'vote': 156652, 'rating': 7.7, 'title': u'\u964d\u4e34'}
+{'vote': 12494, 'rating': 7.3, 'title': u'\u516b\u6708'}
+{'vote': 164800, 'rating': 8.5, 'title': u'\u6bd4\u5229\xb7\u6797\u6069\u7684\u4e2d\u573a\u6218\u4e8b'}
+{'vote': 307650, 'rating': 8.0, 'title': u'\u6e44\u516c\u6cb3\u884c\u52a8'}
+{'vote': 8773, 'rating': 8.1, 'title': u'\u7231\u56fd\u8005\u4e4b\u65e5'}
+{'vote': 37389, 'rating': 8.7, 'title': u'\u4e1c\u4eac\u5973\u5b50\u56fe\u9274'}
+{'vote': 5137, 'rating': 7.8, 'title': u'\u4e8c\u5341\u4e16\u7eaa\u5973\u4eba'}
+{'vote': 127800, 'rating': 4.0, 'title': u'\u6446\u6e21\u4eba'}
+{'vote': 53059, 'rating': 5.1, 'title': u'\u94c1\u9053\u98de\u864e'}
+{'vote': 21336, 'rating': 7.3, 'title': u'\u6700\u7ec8\u5e7b\u60f315\uff1a\u738b\u8005\u4e4b\u5251'}
+{'vote': 38777, 'rating': 9.5, 'title': u'\u6211\u4eec\u8fd9\u4e00\u5929 \u7b2c\u4e00\u5b63'}
+{'vote': 446260, 'rating': 9.2, 'title': u'\u75af\u72c2\u52a8\u7269\u57ce'}
+{'vote': 20194, 'rating': 8.6, 'title': u'\u9690\u85cf\u4eba\u7269'}
+{'vote': 320017, 'rating': 8.2, 'title': u'\u91dc\u5c71\u884c'}
+{'vote': 25561, 'rating': 6.9, 'title': u'\u95f4\u8c0d\u540c\u76df'}
+{'vote': 5094, 'rating': 8.8, 'title': u'\u6821\u5408\u5531\u56e2\u7684\u79d8\u5bc6'}
+{'vote': 55090, 'rating': 7.6, 'title': u'\u5979'}
+{'vote': 9133, 'rating': 7.7, 'title': u'\u63a8\u9500\u5458'}
+{'vote': 27713, 'rating': 8.1, 'title': u'\u6d41\u6d6a\u732b\u9c8d\u52c3'}
+{'vote': 219785, 'rating': 7.6, 'title': u'\u4e03\u6708\u4e0e\u5b89\u751f'}
+{'vote': 113550, 'rating': 8.3, 'title': u'\u8428\u5229\u673a\u957f'}
+{'vote': 130024, 'rating': 6.8, 'title': u'\u6211\u4e0d\u662f\u6f58\u91d1\u83b2'}
+{'vote': 4769, 'rating': 8.3, 'title': u'\u897f\u846b\u82a6\u7684\u751f\u6d3b'}
+{'vote': 32471, 'rating': 8.6, 'title': u'\u6bd4\u6d77\u66f4\u6df1'}
+{'vote': 9797, 'rating': 8.0, 'title': u'\u5e15\u7279\u68ee'}
+{'vote': 51877, 'rating': 7.4, 'title': u'\u591c\u884c\u52a8\u7269'}
+{'vote': 2434, 'rating': 8.1, 'title': u'\u5951\u514b'}
+{'vote': 178016, 'rating': 7.8, 'title': u'X\u6218\u8b66\uff1a\u5929\u542f'}
+{'vote': 118642, 'rating': 8.6, 'title': u'\u5b8c\u7f8e\u964c\u751f\u4eba'}
+{'vote': 98308, 'rating': 7.6, 'title': u'\u8ffd\u51f6\u8005\u4e5f'}
+{'vote': 8233, 'rating': 9.2, 'title': u'9\u53f7\u79d8\u4e8b \u7b2c\u4e09\u5b63'}
+{'vote': 9888, 'rating': 7.3, 'title': u'\u96c4\u72ee'}
+{'vote': 7188, 'rating': 7.7, 'title': u'\u6c89\u9ed8'}
+{'vote': 4269, 'rating': 7.2, 'title': u'\u4e00\u8def\u987a\u98ce'}
+{'vote': 142609, 'rating': 5.3, 'title': u'\u4ece\u4f60\u7684\u5168\u4e16\u754c\u8def\u8fc7'}
+{'vote': 2482, 'rating': 7.8, 'title': u'\u6c38\u8fdc\u7684\u6258\u8bcd'}
+{'vote': 209420, 'rating': 6.5, 'title': u'\u5927\u9c7c\u6d77\u68e0'}
+{'vote': 84119, 'rating': 8.7, 'title': u'\u4e00\u4e2a\u53eb\u6b27\u7ef4\u7684\u7537\u4eba\u51b3\u5b9a\u53bb\u6b7b'}
+{'vote': 77218, 'rating': 6.1, 'title': u'\u81ea\u6740\u5c0f\u961f'}
+{'vote': 39366, 'rating': 9.2, 'title': u'\u9e6c'}
+{'vote': 3980, 'rating': 6.5, 'title': u'\u4e3a\u4ec0\u4e48\u662f\u4ed6\uff1f'}
+{'vote': 11130, 'rating': 6.8, 'title': u'\u7b2c\u4e00\u592b\u4eba'}
+{'vote': 41763, 'rating': 4.9, 'title': u'\u4e09\u5c11\u7237\u7684\u5251'}
+{'vote': 89798, 'rating': 7.9, 'title': u'\u5c0f\u59d0'}
+{'vote': 7101, 'rating': 8.8, 'title': u'\u4f26\u6566\u4e00\u5bb6\u4eba'}
+{'vote': 98265, 'rating': 8.3, 'title': u'\u5b64\u5355\u53c8\u707f\u70c2\u7684\u795e\uff1a\u9b3c\u602a'}
+{'vote': 139599, 'rating': 7.5, 'title': u'\u6b7b\u4f8d'}
+{'vote': 106722, 'rating': 8.9, 'title': u'\u897f\u90e8\u4e16\u754c \u7b2c\u4e00\u5b63'}
+{'vote': 2439, 'rating': 7.1, 'title': u'\u65e0\u5904\u4e3a\u5bb6'}
+{'vote': 29854, 'rating': 7.4, 'title': u'\u65e0\u540d\u5973\u5c38'}
+{'vote': 7520, 'rating': 8.1, 'title': u'\u6211\u662f\u5e03\u83b1\u514b'}
+{'vote': 74519, 'rating': 7.3, 'title': u'\u4f69\u5c0f\u59d0\u7684\u5947\u5e7b\u57ce\u5821'}
+{'vote': 10760, 'rating': 4.7, 'title': u'\u90a3\u5e74\u590f\u5929\u4f60\u53bb\u4e86\u54ea\u91cc'}
+{'vote': 24713, 'rating': 7.9, 'title': u'\u8d74\u6c64\u8e48\u706b'}
+{'vote': 109840, 'rating': 7.5, 'title': u'\u7231\u5ba0\u5927\u673a\u5bc6'}
+{'vote': 199140, 'rating': 7.7, 'title': u'\u7f8e\u56fd\u961f\u957f3'}
+{'vote': 3344, 'rating': 6.5, 'title': u'\u9644\u5c5e\u7f8e\u4e3d'}
+{'vote': 16266, 'rating': 6.5, 'title': u'\u65b0\u54e5\u65af\u62c9'}
+{'vote': 5155, 'rating': 9.5, 'title': u'\u8f9b\u666e\u68ee\uff1a\u7f8e\u56fd\u5236\u9020'}
+{'vote': 5197, 'rating': 8.2, 'title': u'\u5f17\u5170\u5179'}
+{'vote': 1965, 'rating': 5.4, 'title': u'\u7206\u5934'}
+{'vote': 1961, 'rating': 6.6, 'title': u'\u53cd\u60c5\u8272'}
+{'vote': 2635, 'rating': 6.7, 'title': u'\u8de8\u8d8a\u6805\u680f'}
+{'vote': 13245, 'rating': 7.7, 'title': u'\u6210\u957f\u8fb9\u7f18'}
+{'vote': 164753, 'rating': 7.2, 'title': u'\u706b\u9505\u82f1\u96c4'}
+{'vote': 25918, 'rating': 7.3, 'title': u'\u4f1a\u8ba1\u523a\u5ba2'}
+{'vote': 80190, 'rating': 7.5, 'title': u'\u9047\u89c1\u4f60\u4e4b\u524d'}
+{'vote': 1321, 'rating': 6.0, 'title': u'\u5979\u5507\u4e4b\u4e0b'}
+{'vote': 144326, 'rating': 7.8, 'title': u'\u5947\u5e7b\u68ee\u6797'}
+{'vote': 64588, 'rating': 8.2, 'title': u'\u4f59\u7f6a \u7b2c\u4e00\u5b63'}
+{'vote': 2144, 'rating': 6.3, 'title': u'\u591c\u8272\u4eba\u751f'}
+{'vote': 62613, 'rating': 5.1, 'title': u'\u5fae\u5fae\u4e00\u7b11\u5f88\u503e\u57ce'}
+{'vote': 41674, 'rating': 5.7, 'title': u'28\u5c81\u672a\u6210\u5e74'}
+{'vote': 1627, 'rating': 8.1, 'title': u'\u6211\u53bb\u54ea\u513f\uff1f'}
+{'vote': 32179, 'rating': 5.6, 'title': u'\u5371\u57ce'}
+{'vote': 171012, 'rating': 7.8, 'title': u'\u9b54\u517d'}
+{'vote': 9852, 'rating': 7.6, 'title': u'\u6258\u5c3c\xb7\u5384\u5fb7\u66fc'}
+{'vote': 22019, 'rating': 8.2, 'title': u'\u6fd1\u6237\u5185\u6d77'}
+{'vote': 77810, 'rating': 9.0, 'title': u'\u6211\u7684\u6050\u6016\u59bb\u5b50'}
+{'vote': 132786, 'rating': 6.9, 'title': u'\u5bd2\u62182'}
+{'vote': 47568, 'rating': 5.6, 'title': u'\u673a\u68b0\u5e082\uff1a\u590d\u6d3b'}
+{'vote': 22149, 'rating': 9.9, 'title': u'\u5730\u7403\u8109\u52a8 \u7b2c\u4e8c\u5b63'}
+{'vote': 41789, 'rating': 8.3, 'title': u'\u9003\u907f\u867d\u53ef\u803b\u4f46\u6709\u7528'}
+{'vote': 118941, 'rating': 6.5, 'title': u'\u60ca\u5929\u9b54\u76d7\u56e22'}
+{'vote': 12981, 'rating': 7.4, 'title': u'\u6f58\u591a\u62c9'}
+{'vote': 115, 'rating': 6.5, 'title': u'\u8d1d\u5c14\u79d1\u5b9e\u9a8c'}
+{'vote': 44068, 'rating': 7.4, 'title': u'\u9b54\u5f26\u4f20\u8bf4'}
+{'vote': 108793, 'rating': 7.3, 'title': u'\u8c0d\u5f71\u91cd\u91cd5'}
+{'vote': 49506, 'rating': 7.1, 'title': u'\u9999\u80a0\u6d3e\u5bf9'}
+{'vote': 3020, 'rating': 6.6, 'title': u'\u6076\u9b54\u86d9\u7537'}
+{'vote': 375952, 'rating': 6.8, 'title': u'\u7f8e\u4eba\u9c7c'}
+{'vote': 96295, 'rating': 6.7, 'title': u'\u4f7f\u5f92\u884c\u8005'}
+{'vote': 13436, 'rating': 8.1, 'title': u'\u5c06\u6765\u7684\u4e8b'}
+{'vote': 6624, 'rating': 7.2, 'title': u'\u5410\u69fd\u5927\u4f1a'}
+{'vote': 132783, 'rating': 6.6, 'title': u'\u8759\u8760\u4fa0\u5927\u6218\u8d85\u4eba\uff1a\u6b63\u4e49\u9ece\u660e'}
+{'vote': 3992, 'rating': 6.9, 'title': u'\u85e9\u7bf1'}
+{'vote': 68458, 'rating': 7.6, 'title': u'\u96a7\u9053'}
+{'vote': 19706, 'rating': 9.5, 'title': u'\u7f9e\u803b \u7b2c\u4e09\u5b63'}
+{'vote': 2135, 'rating': 7.0, 'title': u'\u72ec\u5bb6\u65b0\u95fb'}
+{'vote': 33542, 'rating': 9.2, 'title': u'\u91cd\u7248\u51fa\u6765\uff01'}
+{'vote': 72765, 'rating': 9.2, 'title': u'\u4fe1\u53f7'}
+{'vote': 7199, 'rating': 7.1, 'title': u'\u5f53\u602a\u7269\u6765\u6572\u95e8'}
+{'vote': 27426, 'rating': 6.2, 'title': u'\u540d\u4fa6\u63a2\u67ef\u5357\uff1a\u7eaf\u9ed1\u7684\u6076\u68a6'}
+{'vote': 9796, 'rating': 8.6, 'title': u'\u660e\u661f\u5927\u4fa6\u63a2 \u7b2c\u4e00\u5b63'}
+{'vote': 24104, 'rating': 8.5, 'title': u'\u4e3e\u91cd\u5996\u7cbe\u91d1\u798f\u73e0'}
+{'vote': 84582, 'rating': 7.3, 'title': u'\u661f\u9645\u8ff7\u822a3\uff1a\u8d85\u8d8a\u661f\u8fb0'}
+{'vote': 22682, 'rating': 5.2, 'title': u'\u53cd\u8d2a\u98ce\u66b42'}
+{'vote': 46164, 'rating': 6.9, 'title': u'\u4e5d\u6761\u547d'}
+{'vote': 39345, 'rating': 6.7, 'title': u'\u5706\u68a6\u5de8\u4eba'}
+{'vote': 64872, 'rating': 4.1, 'title': u'\u81f4\u9752\u6625\xb7\u539f\u6765\u4f60\u8fd8\u5728\u8fd9\u91cc'}
+{'vote': 87531, 'rating': 7.3, 'title': u'\u6b22\u4e50\u9882'}
+{'vote': 72889, 'rating': 5.7, 'title': u'\u72ec\u7acb\u65e52\uff1a\u5377\u571f\u91cd\u6765'}
+{'vote': 142010, 'rating': 6.5, 'title': u'\u5317\u4eac\u9047\u4e0a\u897f\u96c5\u56fe\u4e4b\u4e0d\u4e8c\u60c5\u4e66'}
+{'vote': 119917, 'rating': 4.7, 'title': u'\u76d7\u5893\u7b14\u8bb0'}
+{'vote': 48534, 'rating': 7.3, 'title': u'\u6d77\u5e95\u603b\u52a8\u54582\uff1a\u591a\u8389\u53bb\u54ea\u513f'}
+{'vote': 17969, 'rating': 5.9, 'title': u'\u4fa0\u63a2\u6770\u514b\uff1a\u6c38\u4e0d\u56de\u5934'}
+{'vote': 49729, 'rating': 7.6, 'title': u'\u62db\u9b422'}
+{'vote': 62458, 'rating': 8.7, 'title': u'\u9ed1\u955c \u7b2c\u4e09\u5b63'}
+{'vote': 41329, 'rating': 8.2, 'title': u'\u521d\u604b\u8fd9\u9996\u60c5\u6b4c'}
+{'vote': 86639, 'rating': 8.2, 'title': u'\u9b3c\u5439\u706f\u4e4b\u7cbe\u7edd\u53e4\u57ce'}
+{'vote': 1217, 'rating': 5.9, 'title': u'\u529e\u516c\u5ba4\u5723\u8bde\u6d3e\u5bf9'}
+{'vote': 14153, 'rating': 9.3, 'title': u'\u706b\u82b1'}
+{'vote': 1059, 'rating': 6.7, 'title': u'\u82e6\u4e2d\u5e26\u751c\u7684\u6ecb\u5473'}
+{'vote': 346, 'rating': 8.2, 'title': u'\u751f\u5403'}
+{'vote': 164624, 'rating': 7.7, 'title': u'\u529f\u592b\u718a\u732b3'}
+{'vote': 13217, 'rating': 9.2, 'title': u'\u738b\u51a0 \u7b2c\u4e00\u5b63'}
+{'vote': 65507, 'rating': 6.3, 'title': u'\u5fae\u5fae\u4e00\u7b11\u5f88\u503e\u57ce'}
+{'vote': 4889, 'rating': 9.0, 'title': u'\u6454\u8de4\u5427\uff01\u7238\u7238'}
+{'vote': 38482, 'rating': 7.1, 'title': u'\u5496\u5561\u516c\u793e'}
+{'vote': 57030, 'rating': 7.1, 'title': u'\u9ca8\u6ee9'}
+{'vote': 66234, 'rating': 6.6, 'title': u'\u7231\u4e3d\u4e1d\u68a6\u6e38\u4ed9\u58832\uff1a\u955c\u4e2d\u5947\u9047\u8bb0'}
+{'vote': 22233, 'rating': 7.6, 'title': u'\u65af\u8bfa\u767b'}
+{'vote': 25470, 'rating': 7.4, 'title': u'\u5355\u8eab\u65e5\u8bb0\uff1a\u597d\u5b55\u6765\u88ad'}
+{'vote': 24409, 'rating': 6.6, 'title': u'\u73a9\u547d\u76f4\u64ad'}
+{'vote': 2873, 'rating': 7.3, 'title': u'\u96a7\u9053\u5c3d\u5934'}
+{'vote': 51070, 'rating': 7.1, 'title': u'\u54ed\u58f0'}
+{'vote': 666, 'rating': 7.7, 'title': u'\u4e8c\u6b21\u65c5\u7a0b'}
+{'vote': 9845, 'rating': 8.7, 'title': u'\u4ebf\u4e07 \u7b2c\u4e00\u5b63'}
+{'vote': 29066, 'rating': 8.3, 'title': u'\u9047\u89c1\u738b\u6ca5\u5ddd'}
+{'vote': 79753, 'rating': 7.6, 'title': u'\u592a\u9633\u7684\u540e\u88d4'}
+{'vote': 35687, 'rating': 2.9, 'title': u'\u5c01\u795e\u4f20\u5947'}
+{'vote': 2497, 'rating': 6.0, 'title': u'\u7231\u5ba0'}
+{'vote': 20106, 'rating': 7.1, 'title': u'\u5e7d\u51a5'}
+{'vote': 19372, 'rating': 7.8, 'title': u'\u795e\u5947\u961f\u957f'}
+{'vote': 25779, 'rating': 7.0, 'title': u'\u6df1\u6d77\u6d69\u52ab'}
+{'vote': 818, 'rating': 6.6, 'title': u'\u608d\u5973'}
+{'vote': 1647, 'rating': 7.9, 'title': u'\u76f2\u773c\u5973\u5b69'}
+{'vote': 48063, 'rating': 8.7, 'title': u'\u602a\u5947\u7269\u8bed \u7b2c\u4e00\u5b63'}
+{'vote': 21599, 'rating': 7.9, 'title': u'\u7537\u4e0e\u5973'}
+{'vote': 11855, 'rating': 7.9, 'title': u'\u5e78\u8fd0\u662f\u6211'}
+{'vote': 10940, 'rating': 6.4, 'title': u'\u706b\u8f66\u4e0a\u7684\u5973\u5b69'}
+{'vote': 497, 'rating': 8.7, 'title': u'\u5728\u8fd9\u4e16\u754c\u7684\u89d2\u843d'}
+{'vote': 48192, 'rating': 9.3, 'title': u'\u6211\u5728\u6545\u5bab\u4fee\u6587\u7269'}
+{'vote': 16372, 'rating': 7.4, 'title': u'\u8c6a\u52c7\u4e03\u86df\u9f99'}
+{'vote': 51872, 'rating': 6.2, 'title': u'\u4f46\u4e01\u5bc6\u7801'}
+{'vote': 41754, 'rating': 7.0, 'title': u'\u5c4f\u4f4f\u547c\u5438'}
+{'vote': 55755, 'rating': 7.7, 'title': u'\u8def\u8fb9\u91ce\u9910'}
+{'vote': 39782, 'rating': 6.4, 'title': u'\u8c01\u7684\u9752\u6625\u4e0d\u8ff7\u832b'}
+{'vote': 53104, 'rating': 5.5, 'title': u'\u7edd\u5730\u9003\u4ea1'}
+{'vote': 28013, 'rating': 6.3, 'title': u'\u9ebb\u96c0'}
+{'vote': 1191, 'rating': 5.7, 'title': u'\u5c11\u5973'}
+{'vote': 31487, 'rating': 8.7, 'title': u'\u4f26\u6566\u751f\u6d3b'}
+{'vote': 606, 'rating': 7.7, 'title': u'\u5723\u4e4b\u9752\u6625'}
+{'vote': 78904, 'rating': 8.0, 'title': u'W-\u4e24\u4e2a\u4e16\u754c'}
+{'vote': 28670, 'rating': 7.5, 'title': u'\u6821\u5bf9\u5973\u5b69\u6cb3\u91ce\u60a6\u5b50'}
+{'vote': 1099, 'rating': 7.9, 'title': u'\u6e38\u620f\u738b\uff1a\u6b21\u5143\u7684\u9ed1\u6697\u9762'}
+{'vote': 46443, 'rating': 5.3, 'title': u'\u9646\u579a\u77e5\u9a6c\u4fd0'}
+{'vote': 13734, 'rating': 8.7, 'title': u'\u4e00\u8d77\u540c\u8fc7\u7a97 \u7b2c\u4e00\u5b63'}
+{'vote': 18425, 'rating': 6.3, 'title': u'\u516d\u5f04\u5496\u5561\u9986'}
+{'vote': 5379, 'rating': 6.8, 'title': u'\u53ea\u662f\u4e16\u754c\u5c3d\u5934'}
+{'vote': 1958, 'rating': 6.2, 'title': u'\u7231\u4e4b\u5973\u5deb'}
+{'vote': 80584, 'rating': 3.7, 'title': u'\u7235\u8ff9'}
+{'vote': 8770, 'rating': 7.9, 'title': u'\u6bd5\u4e1a\u4f1a\u8003'}
+{'vote': 599, 'rating': 7.3, 'title': u'\u4e00\u5ff5\u65e0\u660e'}
+{'vote': 76332, 'rating': 9.4, 'title': u'\u6743\u529b\u7684\u6e38\u620f \u7b2c\u516d\u5b63'}
+{'vote': 55187, 'rating': 7.8, 'title': u'\u745e\u58eb\u519b\u5200\u7537'}
+{'vote': 8867, 'rating': 8.8, 'title': u'\u4e00\u5e74\u751f'}
+{'vote': 1438, 'rating': 7.9, 'title': u'\u5185\u90e8\u8fd0\u4f5c'}
+{'vote': 1969, 'rating': 8.2, 'title': u'\u6012'}
+{'vote': 45166, 'rating': 7.4, 'title': u'\u8d24\u8005\u4e4b\u7231'}
+{'vote': 12303, 'rating': 6.1, 'title': u'\u90bb\u5bb6\u5927\u8d31\u8c0d'}
+{'vote': 546, 'rating': 5.6, 'title': u'\u82b1\u82af'}
+{'vote': 27049, 'rating': 7.0, 'title': u'\u8bf7\u53eb\u6211\u82f1\u96c4'}
+{'vote': 623, 'rating': 8.3, 'title': u'\u4e0d\u6210\u95ee\u9898\u7684\u95ee\u9898'}
+{'vote': 13232, 'rating': 9.0, 'title': u'\u89c1\u5b57\u5982\u9762 \u7b2c\u4e00\u5b63'}
+{'vote': 10732, 'rating': 6.8, 'title': u'\u8dd1\u8c03\u5929\u540e'}
+{'vote': 7977, 'rating': 7.3, 'title': u'\u7f8e\u56fd\u751c\u5fc3'}
+{'vote': 14995, 'rating': 8.7, 'title': u'\u540c\u7ea7\u751f'}
+{'vote': 65038, 'rating': 7.0, 'title': u'\u6124\u6012\u7684\u5c0f\u9e1f'}
+{'vote': 1171, 'rating': 6.0, 'title': u'\u602a\u517d\u5361\u8f66'}
+{'vote': 4360, 'rating': 7.3, 'title': u'\u5929\u9ed1\u8bf7\u95ed\u773c'}
+{'vote': 22808, 'rating': 8.0, 'title': u'\u8ffd\u6355\u91ce\u86ee\u4eba'}
+{'vote': 18469, 'rating': 8.5, 'title': u'\u5927\u79e6\u5e1d\u56fd\u4e4b\u5d1b\u8d77'}
+{'vote': 1041, 'rating': 7.3, 'title': u'\u6697\u91d1\u4e11\u5c9b\u541b3'}
+{'vote': 17113, 'rating': 7.5, 'title': u'\u9017\u9e1f\u5916\u4f20\uff1a\u840c\u5b9d\u6ee1\u5929\u98de'}
+{'vote': 8574, 'rating': 9.1, 'title': u'\u5e74\u8f7b\u7684\u6559\u5b97 \u7b2c\u4e00\u5b63'}
+{'vote': 39383, 'rating': 7.1, 'title': u'\u4f59\u7f6a \u7b2c\u4e8c\u5b63'}
+{'vote': 19530, 'rating': 9.0, 'title': u'\u5fc3\u91cc\u7684\u58f0\u97f3'}
+{'vote': 6388, 'rating': 8.4, 'title': u'\u6211\u4eec\u7684\u4e16\u754c'}
+{'vote': 81347, 'rating': 5.2, 'title': u'\u529f\u592b\u745c\u4f3d'}
+{'vote': 10384, 'rating': 7.2, 'title': u'\u9b54\u53d1\u7cbe\u7075'}
+{'vote': 30898, 'rating': 8.8, 'title': u'\u5bb6\u65cf\u7684\u5f62\u5f0f'}
+{'vote': 17883, 'rating': 8.6, 'title': u'\u5bbd\u677e\u4e16\u4ee3\u53c8\u5982\u4f55'}
+{'vote': 14488, 'rating': 7.2, 'title': u'\u963f\u4fee\u7f57'}
+{'vote': 12048, 'rating': 8.5, 'title': u'\u884c\u5c38\u8d70\u8089 \u7b2c\u4e03\u5b63'}
+{'vote': 40474, 'rating': 3.7, 'title': u'\u5927\u8bdd\u897f\u6e383'}
+{'vote': 64265, 'rating': 6.6, 'title': u'\u5acc\u7591\u4ebaX\u7684\u732e\u8eab'}
+{'vote': 958, 'rating': 7.8, 'title': u'\u6697\u91d1\u4e11\u5c9b\u541b\uff1a\u5b8c\u7ed3\u7bc7'}
+{'vote': 141893, 'rating': 6.9, 'title': u'\u795e\u63a2\u590f\u6d1b\u514b\uff1a\u53ef\u6076\u7684\u65b0\u5a18'}
+{'vote': 24160, 'rating': 8.3, 'title': u'\u5b63\u6625\u5976\u5976'}
+{'vote': 8034, 'rating': 9.3, 'title': u'\u822a\u62cd\u4e2d\u56fd \u7b2c\u4e00\u5b63'}
+{'vote': 28273, 'rating': 7.8, 'title': u'\u822a\u6d77\u738b\u4e4b\u9ec4\u91d1\u57ce'}
+{'vote': 15994, 'rating': 8.1, 'title': u'\u5bb6\u65cf\u4e4b\u82e6'}
+{'vote': 11473, 'rating': 9.3, 'title': u'\u9f50\u6728\u6960\u96c4\u7684\u707e\u96be'}
+{'vote': 12444, 'rating': 9.4, 'title': u'\u590f\u76ee\u53cb\u4eba\u5e10 \u7b2c\u4e94\u5b63'}
+{'vote': 573, 'rating': 8.1, 'title': u'\u58f0\u4e4b\u5f62'}
+{'vote': 29975, 'rating': 7.1, 'title': u'\u84dd\u8272\u5927\u6d77\u7684\u4f20\u8bf4'}
+{'vote': 11722, 'rating': 8.7, 'title': u'\u603b\u6709\u4e00\u5929'}
+{'vote': 474, 'rating': 6.0, 'title': u'\u771f\u7530\u5341\u52c7\u58eb'}
+{'vote': 24206, 'rating': 8.7, 'title': u'\u7f6a\u591c\u4e4b\u5954'}
+{'vote': 2726, 'rating': 7.2, 'title': u'\u7231\u604b'}
+{'vote': 43443, 'rating': 8.6, 'title': u'\u6700\u597d\u7684\u6211\u4eec'}
+{'vote': 450, 'rating': 7.6, 'title': u'\u63d0\u7740\u5fc3\u540a\u7740\u80c6'}
+{'vote': 764, 'rating': 5.4, 'title': u'\u4eba\u7c7b\u524a\u51cf\u8ba1\u5212'}
+{'vote': 65969, 'rating': 5.9, 'title': u'\u4e09\u4eba\u884c'}
+{'vote': 40010, 'rating': 6.6, 'title': u'\u51b0\u5ddd\u65f6\u4ee35\uff1a\u661f\u9645\u78b0\u649e'}
+{'vote': 4662, 'rating': 7.4, 'title': u'\u80e1\u4e3d\u53f6\u5854'}
+{'vote': 33392, 'rating': 7.0, 'title': u'\u6cd5\u533b\u79e6\u660e'}
+{'vote': 54821, 'rating': 7.2, 'title': u'\u738b\u724c\u8d31\u8c0d\uff1a\u683c\u6797\u65af\u6bd4'}
+{'vote': 1036, 'rating': 7.3, 'title': u'\u8dc6\u62f3\u9053'}
+{'vote': 4389, 'rating': 5.2, 'title': u'\u79d8\u5bc6'}
+{'vote': 964, 'rating': 6.7, 'title': u'\u6e7f\u6fe1\u7684\u5973\u4eba'}
+{'vote': 4783, 'rating': 6.5, 'title': u'\u91d1\u878d\u51b3\u6218'}
+{'vote': 26029, 'rating': 4.8, 'title': u'\u9526\u7ee3\u672a\u592e'}
+{'vote': 9693, 'rating': 5.8, 'title': u'\u5c11\u5e74'}
+{'vote': 2647, 'rating': 8.1, 'title': u'\u5e9f\u7eb8\u677f\u62f3\u51fb\u624b'}
+{'vote': 44695, 'rating': 6.3, 'title': u'\u5fcd\u8005\u795e\u9f9f2\uff1a\u7834\u5f71\u800c\u51fa'}
+{'vote': 926, 'rating': 6.5, 'title': u'\u7075\u9b42\u7eb8\u624e\u5e97'}
+{'vote': 19954, 'rating': 7.1, 'title': u'\u68c0\u5bdf\u5b98\u5916\u4f20'}
+{'vote': 20092, 'rating': 3.4, 'title': u'\u738b\u724c\u9017\u738b\u724c'}
+{'vote': 3373, 'rating': 6.9, 'title': u'\u9519\u4e71\u7684\u4e00\u4ee3'}
+{'vote': 14748, 'rating': 7.4, 'title': u'\u6211\u5728\u6545\u5bab\u4fee\u6587\u7269'}
+{'vote': 5526, 'rating': 8.9, 'title': u'\u5c0f\u8c46\u8c46\u7535\u89c6\u53f0'}
+{'vote': 29964, 'rating': 6.8, 'title': u'\u79d1\u6d1b\u5f17\u905310\u53f7'}
+{'vote': 23782, 'rating': 7.6, 'title': u'\u5371\u673a13\u5c0f\u65f6'}
+{'vote': 57799, 'rating': 6.1, 'title': u'\u4f26\u6566\u9677\u843d'}
+{'vote': 1949, 'rating': 7.8, 'title': u'\u65f6\u95f4\u4ee3\u7801'}
+{'vote': 1090, 'rating': 6.4, 'title': u'\u70b9\u4e94\u6b65'}
+{'vote': 35193, 'rating': 5.2, 'title': u'\u9752\u4e91\u5fd7'}
+{'vote': 19259, 'rating': 6.5, 'title': u'\u5173\u706f\u540e'}
+{'vote': 43735, 'rating': 8.0, 'title': u'\u6211\u4eec\u8bde\u751f\u5728\u4e2d\u56fd'}
+{'vote': 376, 'rating': 6.7, 'title': u'\u540e\u59bb\u4e1a\u4e4b\u5973'}
+{'vote': 91717, 'rating': 5.7, 'title': u'\u897f\u6e38\u8bb0\u4e4b\u5b59\u609f\u7a7a\u4e09\u6253\u767d\u9aa8\u7cbe'}
+{'vote': 4595, 'rating': 6.8, 'title': u'\u5929\u8d50\u4e4b\u5973'}
+{'vote': 775, 'rating': 7.0, 'title': u'\u65e0\u9650\u5546\u793e2016\uff1a\u5371\u673a\u7684\u516c\u53f8\u804c\u5458'}
+{'vote': 2605, 'rating': 8.9, 'title': u'3\u6708\u7684\u72ee\u5b50 \u7b2c\u4e00\u5b63'}
+{'vote': 13457, 'rating': 7.1, 'title': u'\u5047\u5982\u732b\u4ece\u4e16\u754c\u4e0a\u6d88\u5931\u4e86'}
+{'vote': 2311, 'rating': 8.3, 'title': u'\u6eda\u77f3\u7231\u60c5\u6545\u4e8b'}
+{'vote': 1803, 'rating': 7.1, 'title': u'\u6f58\u83f2\u6d1b\u592b28\u52c7\u58eb'}
+{'vote': 10553, 'rating': 9.4, 'title': u'\u767e\u5e74\u9152\u9986'}
+{'vote': 1954, 'rating': 6.5, 'title': u'\u4e0d\u53ef\u6297\u529b\u7231\u4e0a\u4f60'}
+{'vote': 498, 'rating': 5.9, 'title': u'\u767d\u5934\u76d4'}
+{'vote': 332, 'rating': 7.5, 'title': u'\u8bd7\u65e0\u5c3d\u5934'}
+{'vote': 28057, 'rating': 6.0, 'title': u'\u6cf0\u5c71\u5f52\u6765\uff1a\u9669\u6218\u4e1b\u6797'}
+{'vote': 6768, 'rating': 7.7, 'title': u'\u604b\u7231\u8c08'}
+{'vote': 282, 'rating': 7.6, 'title': u'\u53e4\u57ce\u4e00\u7ebf\u7275'}
+{'vote': 49084, 'rating': 7.1, 'title': u'\u60ca\u5929\u5927\u9006\u8f6c'}
+{'vote': 11153, 'rating': 8.6, 'title': u'\u837c\u863c'}
+{'vote': 5716, 'rating': 8.7, 'title': u'\u53ea\u6709\u5409\u7965\u5bfa\u662f\u60f3\u4f4f\u7684\u8857\u9053\u5417\uff1f'}
+{'vote': 27110, 'rating': 9.1, 'title': u'\u6781\u9650\u6311\u6218 \u7b2c\u4e8c\u5b63'}
+{'vote': 18336, 'rating': 6.8, 'title': u'\u957f\u6c5f\u56fe'}
+{'vote': 4095, 'rating': 8.3, 'title': u'\u900d\u9065\u6cd5\u5916 \u7b2c\u4e09\u5b63'}
+{'vote': 9011, 'rating': 8.6, 'title': u'\u6df1\u591c\u98df\u58024\uff1a\u4e1c\u4eac\u6545\u4e8b'}
+{'vote': 21148, 'rating': 8.2, 'title': u'\u5728\u4e0b\u5742\u672c\uff0c\u6709\u4f55\u8d35\u5e72\uff1f'}
+{'vote': 11166, 'rating': 9.4, 'title': u'\u6211\u4eb2\u7231\u7684\u670b\u53cb\u4eec'}
+{'vote': 14681, 'rating': 3.9, 'title': u'\u60ca\u5929\u7834'}
+{'vote': 41288, 'rating': 4.7, 'title': u'\u590f\u6709\u4e54\u6728 \u96c5\u671b\u5929\u5802'}
+{'vote': 18347, 'rating': 6.9, 'title': u'\u8010\u6495\u4fa6\u63a2'}
+{'vote': 3584, 'rating': 7.5, 'title': u'\u7ea2\u6d77\u9f9f'}
+{'vote': 4885, 'rating': 4.2, 'title': u'\u5c0f\u660e\u548c\u4ed6\u7684\u5c0f\u4f19\u4f34\u4eec'}
+{'vote': 6853, 'rating': 7.3, 'title': u'\u8721\u7b14\u5c0f\u65b0\uff1a\u68a6\u5883\u4e16\u754c\u5927\u7a81\u51fb'}
+{'vote': 11847, 'rating': 5.6, 'title': u'\u5929\u4eae\u4e4b\u524d'}
+{'vote': 12814, 'rating': 9.6, 'title': u'\u4eba\u95f4\u4e16'}
+{'vote': 18865, 'rating': 5.4, 'title': u'\u6349\u8ff7\u85cf'}
+{'vote': 5752, 'rating': 8.8, 'title': u'\u5706\u684c\u6d3e'}
+{'vote': 4680, 'rating': 8.8, 'title': u'\u6d6a\u6f2b\u533b\u751f\u91d1\u5e08\u5085'}
+{'vote': 38425, 'rating': 7.4, 'title': u'\u5982\u679c\u8717\u725b\u6709\u7231\u60c5'}
+{'vote': 212, 'rating': 5.3, 'title': u'A\u7247\u73b0\u573a\u4e0dNG2'}
+{'vote': 413, 'rating': 5.2, 'title': u'\u5988\u5988\u7684\u670b\u53cb2'}
+{'vote': 567, 'rating': 6.7, 'title': u'\u9ed1\u732b\u9c81\u9053\u592b'}
+{'vote': 36189, 'rating': 5.3, 'title': u'\u6211\u7684\u7279\u5de5\u7237\u7237'}
+{'vote': 4772, 'rating': 8.4, 'title': u'\u5168\u80fd\u4fa6\u63a2\u793e \u7b2c\u4e00\u5b63'}
+{'vote': 112, 'rating': 8.7, 'title': u'\u6770\u51fa\u516c\u6c11'}
+{'vote': 2301, 'rating': 7.5, 'title': u'\u5438\u8840\u9b3c\u65e5\u8bb0 \u7b2c\u516b\u5b63'}
+{'vote': 10618, 'rating': 7.8, 'title': u'\u65e9\u6b7b\u65e9\u6295\u80ce\u4e4b\u5730\u72f1\u6447\u6eda\u7bc7'}
+{'vote': 7299, 'rating': 8.9, 'title': u'\u975e\u6b63\u5f0f\u4f1a\u8c08 \u7b2c\u4e09\u5b63'}
+{'vote': 30896, 'rating': 5.6, 'title': u'\u8001\u4e5d\u95e8'}
+{'vote': 8118, 'rating': 7.6, 'title': u'\u771f\u6b63\u7537\u5b50\u6c49 \u7b2c\u4e8c\u5b63'}
+{'vote': 7279, 'rating': 7.2, 'title': u'\u5e78\u8fd0\u94a5\u5319'}
+{'vote': 2436, 'rating': 7.4, 'title': u'\u5c0f\u5927\u4eba'}
+{'vote': 195, 'rating': 7.6, 'title': u'\u8eab\u8fb9\u4eba'}
+{'vote': 11253, 'rating': 7.4, 'title': u'\u745e\u666e\xb7\u51e1\xb7\u6e29\u514b\u5c14\u7684\u65b0\u5a18'}
+{'vote': 8663, 'rating': 8.7, 'title': u'\u7f8e\u56fd\u72af\u7f6a\u6545\u4e8b \u7b2c\u4e00\u5b63'}
+{'vote': 28879, 'rating': 9.0, 'title': u'\u7eb8\u724c\u5c4b \u7b2c\u56db\u5b63'}
+{'vote': 10370, 'rating': 6.1, 'title': u'\u9713\u8679\u6076\u9b54'}
+{'vote': 225, 'rating': 6.8, 'title': u'\u96ea\u5c71\u4e4b\u5bb6'}
+{'vote': 5916, 'rating': 7.0, 'title': u'\u6f5c\u4f0f\u8005'}
+{'vote': 3747, 'rating': 3.8, 'title': u'\u6697\u6740\u6e38\u620f'}
+{'vote': 2548, 'rating': 5.6, 'title': u'\u5973\u6559\u5e08'}
+{'vote': 17667, 'rating': 5.0, 'title': u'\u4eb2\u7231\u7684\u7ffb\u8bd1\u5b98'}
+{'vote': 15008, 'rating': 4.3, 'title': u'\u6211\u6700\u597d\u670b\u53cb\u7684\u5a5a\u793c'}
+{'vote': 158, 'rating': 7.6, 'title': u'\u660e\u65e5\u7684\u6211\u4e0e\u6628\u65e5\u7684\u4f60\u7ea6\u4f1a'}
+{'vote': 6359, 'rating': 9.4, 'title': u'\u6469\u767b\u5bb6\u5ead \u7b2c\u516b\u5b63'}
+{'vote': 8830, 'rating': 6.1, 'title': u'\u72fc\u5c11\u5973\u4e0e\u9ed1\u738b\u5b50'}
+{'vote': 1405, 'rating': 5.3, 'title': u'\u9003\u4ea1\u50f5\u5c38\u5c9b'}
+{'vote': 499, 'rating': 4.8, 'title': u'\u5047\u5c0f\u5b50'}
+{'vote': 1043, 'rating': 7.9, 'title': u'\u5982\u6715\u4eb2\u4e34'}
+{'vote': 12499, 'rating': 7.1, 'title': u'\u519b\u706b\u8d29'}
+{'vote': 2564, 'rating': 5.1, 'title': u'\u6211\u4eec\u7684\u6311\u6218'}
+{'vote': 8113, 'rating': 7.4, 'title': u'\u54e5'}
+{'vote': 7963, 'rating': 8.1, 'title': u'\u8d85\u611f\u730e\u6740\uff1a\u5723\u8bde\u7279\u522b\u7bc7'}
+{'vote': 3155, 'rating': 6.7, 'title': u'\u5927\u6d0b\u4e4b\u95f4\u7684\u706f\u5149'}
+{'vote': 8288, 'rating': 8.5, 'title': u'\u51b0\u4e0a\u7684\u5c24\u91cc'}
+{'vote': 24842, 'rating': 7.7, 'title': u'\u6211\u4e0d\u662f\u738b\u6bdb'}
+{'vote': 14918, 'rating': 6.0, 'title': u'\u4eba\u7c7b\u6e05\u9664\u8ba1\u52123'}
+{'vote': 18392, 'rating': 7.8, 'title': u'\u5c0f\u522b\u79bb'}
+{'vote': 1046, 'rating': 5.7, 'title': u'\u8be1\u9b54\u7ae5'}
+{'vote': 4378, 'rating': 7.4, 'title': u'\u7cbe\u7075\u738b\u5ea7'}
+{'vote': 10599, 'rating': 5.6, 'title': u'\u9ed1\u591c\u4f20\u8bf45\uff1a\u8840\u6218'}
+{'vote': 3782, 'rating': 8.0, 'title': u'\u516c\u4e3b\u5c0f\u5c4b'}
+{'vote': 2828, 'rating': 7.7, 'title': u'\u5373\u5c06\u5230\u6765\u7684\u5bf9\u534e\u6218\u4e89'}
+{'vote': 29915, 'rating': 6.4, 'title': u'\u8d85\u811148\u5c0f\u65f6'}
+{'vote': 1278, 'rating': 6.2, 'title': u'\u4fdd\u6301\u7ad9\u7acb'}
+{'vote': 16719, 'rating': 8.6, 'title': u'\u5947\u8469\u8bf4 \u7b2c\u4e09\u5b63'}
+{'vote': 3861, 'rating': 4.6, 'title': u'\u4e94\u5341\u5ea6\u9ed1'}
+{'vote': 7768, 'rating': 8.2, 'title': u'\u9152\u795e\u5c0f\u59d0'}
+{'vote': 431, 'rating': 6.9, 'title': u'\u8f66\u8f7d\u6b4c\u884c'}
+{'vote': 18527, 'rating': 5.9, 'title': u'\u8d85\u80fd\u6562\u6b7b\u961f'}
+{'vote': 9675, 'rating': 9.3, 'title': u'\u7075\u80fd\u767e\u5206\u767e'}
+{'vote': 3182, 'rating': 8.8, 'title': u'\u7f16\u821f\u8bb0'}
+{'vote': 2785, 'rating': 7.6, 'title': u'\u6211\u4eec\u5341\u4e03\u5c81'}
+{'vote': 1687, 'rating': 7.7, 'title': u'\u9690\u4e8e\u4e66\u540e'}
+{'vote': 569, 'rating': 4.1, 'title': u'\u4e00\u543b\u5b9a\u60c5\u7535\u5f71\u72481\uff1a\u9ad8\u4e2d\u7bc7'}
+{'vote': 4303, 'rating': 3.5, 'title': u'\u52c7\u58eb\u4e4b\u95e8'}
+{'vote': 9806, 'rating': 8.2, 'title': u'\u6211\u7684\u5bb6\u91cc\u7a7a\u65e0\u4e00\u7269'}
+{'vote': 84075, 'rating': 7.7, 'title': u'\u4e00\u6761\u72d7\u7684\u4f7f\u547d'}
+{'vote': 26236, 'rating': 8.0, 'title': u'\u98de\u9e70\u827e\u8fea'}
+{'vote': 2743, 'rating': 6.9, 'title': u'\u6050\u5413\u8fd0\u52a8'}
+{'vote': 894, 'rating': 6.7, 'title': u'\u7f8e\u56fd\u7267\u6b4c'}
+{'vote': 9675, 'rating': 8.8, 'title': u'\u9752\u6625\u65f6\u4ee3'}
+{'vote': 22579, 'rating': 5.0, 'title': u'\u8d4f\u91d1\u730e\u4eba'}
+{'vote': 7224, 'rating': 8.9, 'title': u'\u739b\u5609\u70c8\u4e0e\u5927\u536b  \u7eff\u8c46'}
+{'vote': 1175, 'rating': 6.5, 'title': u'\u65e0\u540d\u5973\u5b69'}
+{'vote': 346, 'rating': 6.6, 'title': u'\u8c01\u7684\u6728\u7434'}
+{'vote': 3235, 'rating': 8.0, 'title': u'\u6307\u5b9a\u5e78\u5b58\u8005'}
+{'vote': 8767, 'rating': 7.7, 'title': u'\u6700\u723d\u7684\u4e00\u5929'}
+{'vote': 9183, 'rating': 9.1, 'title': u'\u751f\u6d3b\u5927\u7206\u70b8 \u7b2c\u5341\u5b63'}
+{'vote': 6881, 'rating': 8.4, 'title': u'\u9ed1\u6697\u4e2d\u7684\u5341\u4e2a\u5973\u4eba'}
+{'vote': 8803, 'rating': 8.5, 'title': u'\u4e9a\u4eba'}
+{'vote': 4569, 'rating': 5.9, 'title': u'\u6bdb\u9aa8\u609a\u7136'}
+{'vote': 1175, 'rating': 6.5, 'title': u'\u9752\u7a7a\u5450\u558a'}
+{'vote': 7186, 'rating': 4.5, 'title': u'\u8d85\u7ea7\u5feb\u9012'}
+{'vote': 283, 'rating': 7.7, 'title': u'\u751f\u6d3b\uff0c\u52a8\u753b'}
+{'vote': 1125, 'rating': 7.2, 'title': u'\u56fd\u738b\u7684\u9009\u62e9'}
+{'vote': 13778, 'rating': 5.1, 'title': u'\u5feb\u624b\u67aa\u624b\u5feb\u67aa\u624b'}
+{'vote': 6847, 'rating': 5.9, 'title': u'\u6b32\u5974'}
+{'vote': 13589, 'rating': 7.6, 'title': u'\u706b\u6d77\u51cc\u4e91'}
+{'vote': 9568, 'rating': 8.2, 'title': u'\u5356\u623f\u5b50\u7684\u5973\u4eba'}
+{'vote': 103149, 'rating': 7.4, 'title': u'\u7f8e\u5973\u4e0e\u91ce\u517d'}
+{'vote': 134680, 'rating': 8.6, 'title': u'\u5fc3\u8ff7\u5bab'}
+{'vote': 28665, 'rating': 7.3, 'title': u'\u8bf7\u548c\u8fd9\u4e2a\u6ca1\u7528\u7684\u6211\u8c08\u604b\u7231'}
+{'vote': 2081, 'rating': 7.2, 'title': u'\u6885\u683c\u96f7\u7684\u4ea1\u8005'}
+{'vote': 773, 'rating': 6.4, 'title': u'\u8840\u6d53\u4e8e\u7f6a'}
+{'vote': 6269, 'rating': 7.8, 'title': u'\u5f8b\u653f\u5f3a\u4eba'}
+{'vote': 4762, 'rating': 7.5, 'title': u'\u88ab\u63a9\u76d6\u7684\u65f6\u95f4'}
+{'vote': 24161, 'rating': 7.1, 'title': u'\u54c6\u5566A\u68a6\uff1a\u65b0\xb7\u5927\u96c4\u7684\u65e5\u672c\u8bde\u751f'}
+{'vote': 63103, 'rating': 4.0, 'title': u'\u6fb3\u95e8\u98ce\u4e913'}
+{'vote': 1172, 'rating': 5.6, 'title': u'\u70ed\u8840\u8857\u533a\u7535\u5f71\u7248'}
+{'vote': 15672, 'rating': 9.5, 'title': u'\u9a6c\u7537\u6ce2\u6770\u514b \u7b2c\u4e09\u5b63'}
+{'vote': 128, 'rating': 7.6, 'title': u'\u725b\u5976\u914d\u9001\u5458\u7684\u5947\u5e7b\u4eba\u751f'}
+{'vote': 1046, 'rating': 7.1, 'title': u'\u68ee\u5c71\u4e2d\u6559\u4e60\u6240'}
+{'vote': 8402, 'rating': 6.7, 'title': u'\u4eb2\u7231\u7684\uff0c\u516c\u4e3b\u75c5'}
+{'vote': 1061, 'rating': 8.6, 'title': u'\u51f8\u53d8\u82f1\u96c4'}
+{'vote': 3361, 'rating': 6.5, 'title': u'\u60c5\u51b5\u4e0d\u5999'}
+{'vote': 13436, 'rating': 9.3, 'title': u'\u6bd2\u67ad \u7b2c\u4e8c\u5b63'}
+{'vote': 6375, 'rating': 9.4, 'title': u'\u662d\u548c\u5143\u7984\u843d\u8bed\u5fc3\u4e2d'}
+{'vote': 9632, 'rating': 7.8, 'title': u'\u7075\u9b42\u6446\u6e213'}
+{'vote': 6762, 'rating': 8.1, 'title': u'\u4e2d\u56fd\u65b0\u5e74\uff1a\u5168\u7403\u6700\u5927\u5e86\u5178'}
+{'vote': 8931, 'rating': 7.6, 'title': u'\u7f8e\u56fd\u6050\u6016\u6545\u4e8b\uff1a\u6d1b\u4e9a\u8bfa\u514b \u7b2c\u516d\u5b63'}
+{'vote': 3162, 'rating': 8.0, 'title': u'\u540d\u4fa6\u63a2\u67ef\u5357\uff1a\u7ae0\u8282ONE \u53d8\u5c0f\u7684\u540d\u4fa6\u63a2'}
+{'vote': 12055, 'rating': 7.0, 'title': u'\u4e2d\u90aa'}
+{'vote': 8869, 'rating': 3.9, 'title': u'\u90a3\u4ef6\u75af\u72c2\u7684\u5c0f\u4e8b\u53eb\u7231\u60c5'}
+{'vote': 5033, 'rating': 7.5, 'title': u'\u706b\u661f\u60c5\u62a5\u5c40 \u7b2c\u4e8c\u5b63'}
+{'vote': 21588, 'rating': 6.6, 'title': u'\u597d\u5148\u751f'}
+{'vote': 732, 'rating': 5.5, 'title': u'\u64a9\u4e71\u7684\u88f8\u821e\u66f2'}
+{'vote': 4812, 'rating': 7.6, 'title': u'\u63a7\u65b9\u8bc1\u4eba'}
+{'vote': 510, 'rating': 7.5, 'title': u'\u6211\u7684\u53d4\u53d4'}
+{'vote': 4464, 'rating': 7.4, 'title': u'\u7834\u4ea7\u59d0\u59b9 \u7b2c\u516d\u5b63'}
+{'vote': 2770, 'rating': 7.7, 'title': u'\u5973\u795e\u4eec'}
+{'vote': 11839, 'rating': 6.7, 'title': u'\u5973\u5deb'}
+{'vote': 7504, 'rating': 4.8, 'title': u'\u6211\u4eec\u7684\u5341\u5e74'}
+{'vote': 997, 'rating': 8.5, 'title': u'\u9a6c\u62c9\u677e\uff1a\u7231\u56fd\u8005\u65e5\u7206\u70b8\u6848'}
+{'vote': 2436, 'rating': 6.4, 'title': u'\u65e0\u95f4\u9053 \u7b2c\u4e00\u5b63'}
+{'vote': 18455, 'rating': 4.8, 'title': u'\u6240\u4ee5\u2026\u2026\u548c\u9ed1\u7c89\u7ed3\u5a5a\u4e86'}
+{'vote': 512, 'rating': 6.0, 'title': u'\u590f\u7f8e\u7684\u8424\u706b\u866b'}
+{'vote': 3586, 'rating': 8.3, 'title': u'\u7f9e\u803b \u7b2c\u4e8c\u5b63'}
+{'vote': 10105, 'rating': 8.0, 'title': u'Re\uff1a\u4ece\u96f6\u5f00\u59cb\u7684\u5f02\u4e16\u754c\u751f\u6d3b'}
+{'vote': 18425, 'rating': 5.0, 'title': u'\u7761\u5728\u6211\u4e0a\u94fa\u7684\u5144\u5f1f'}
+{'vote': 4339, 'rating': 8.5, 'title': u'\u771f\u5b9e\u7684\u4eba\u7c7b \u7b2c\u4e8c\u5b63'}
+{'vote': 7952, 'rating': 8.3, 'title': u'\u5927\u7fa4 \u7b2c\u4e00\u5b63'}
+{'vote': 953, 'rating': 7.0, 'title': u'\u56e2\u5730'}
+{'vote': 130, 'rating': 7.4, 'title': u'\u6eda\u70eb\u7684\u7231'}
+{'vote': 11736, 'rating': 7.6, 'title': u'\u558a\xb7\u5c71'}
+{'vote': 2894, 'rating': 6.7, 'title': u'\u8111\u6b8b\u7c89'}
+{'vote': 14219, 'rating': 5.4, 'title': u'\u9996\u5c14\u7ad9'}
+{'vote': 4005, 'rating': 8.3, 'title': u'\u76f8\u601d'}
+{'vote': 3567, 'rating': 6.7, 'title': u'\u74e3\u5634 \u7b2c\u4e00\u5b63'}
+{'vote': 143, 'rating': 8.3, 'title': u'\u4f11\u65af\u987f\uff0c\u6211\u4eec\u6709\u9ebb\u70e6\u4e86\uff01'}
+{'vote': 591, 'rating': 6.3, 'title': u'\u96ea\u5d29\u884c\u52a8'}
+{'vote': 3927, 'rating': 6.0, 'title': u'\u6469\u6839'}
+{'vote': 1374, 'rating': 6.8, 'title': u'\u67d0\u79cd\u5973\u4eba'}
+{'vote': 1441, 'rating': 8.7, 'title': u'\u6d2a\u6c34\u6cdb\u6ee5\u4e4b\u524d'}
+{'vote': 9522, 'rating': 9.2, 'title': u'\u7845\u8c37 \u7b2c\u4e09\u5b63'}
+{'vote': 730, 'rating': 4.0, 'title': u'\u94e0\u7532\u52c7\u58eb\u6355\u738b'}
+{'vote': 3375, 'rating': 7.2, 'title': u'ON \u5f02\u5e38\u72af\u7f6a\u635c\u67fb\u5b98 \u85e4\u5802\u6bd4\u5948\u5b50'}
+{'vote': 14101, 'rating': 5.7, 'title': u'\u80ed\u8102'}
+{'vote': 4608, 'rating': 7.0, 'title': u'\u767d\u663c\u4e4b\u96e8'}
+{'vote': 3998, 'rating': 7.5, 'title': u'\u7c7b\u4eba\u733f\u884c\u52a8'}
+{'vote': 34918, 'rating': 7.3, 'title': u'\u5976\u916a\u9677\u9631'}
+{'vote': 12242, 'rating': 8.3, 'title': u'\u53c8\u662f\u5434\u6d77\u82f1'}
+{'vote': 14597, 'rating': 8.0, 'title': u'\u5ac9\u5992\u7684\u5316\u8eab'}
+{'vote': 7272, 'rating': 7.4, 'title': u'\u4e3a\u4ec0\u4e48\u732b\u90fd\u53eb\u4e0d\u6765'}
+{'vote': 10109, 'rating': 4.6, 'title': u'\u5973\u6c49\u5b50\u771f\u7231\u516c\u5f0f'}
+{'vote': 1853, 'rating': 8.4, 'title': u'\u653e\u5f00\u6211\u5317\u9f3b \u7b2c\u4e00\u5b63'}
+{'vote': 3456, 'rating': 4.5, 'title': u'\u8d1e\u5b50\u5927\u6218\u4f3d\u6930\u5b50'}
+{'vote': 4742, 'rating': 7.3, 'title': u'\u8bc6\u6c5d\u4e0d\u8bc6\u4e01'}
+{'vote': 566, 'rating': 6.9, 'title': u'\u4f55\u8005'}
+{'vote': 5272, 'rating': 7.7, 'title': u'\u83ab\u897f\u5e72\u56de\u5230\u6545\u4e61'}
+{'vote': 20213, 'rating': 5.4, 'title': u'\u730e\u795e\uff1a\u51ac\u65e5\u4e4b\u6218'}
+{'vote': 362, 'rating': 7.5, 'title': u'\u6d6e\u58eb\u5fb7\u7684\u5fae\u7b11'}
+{'vote': 3300, 'rating': 8.4, 'title': u'\u95ea\u4eae'}
+{'vote': 6578, 'rating': 3.7, 'title': u'\u51b2\u5929\u706b'}
+{'vote': 9647, 'rating': 4.2, 'title': u'\u5916\u516c\u82b3\u9f8438'}
+{'vote': 19695, 'rating': 7.0, 'title': u'\u4e91\u753b\u7684\u6708\u5149'}
+{'vote': 681, 'rating': 3.0, 'title': u'\u6c5f\u6e56\u60b2\u5267'}
+{'vote': 13449, 'rating': 6.2, 'title': u'\u6b65\u6b65\u60ca\u5fc3\uff1a\u4e3d'}
+{'vote': 11975, 'rating': 8.2, 'title': u'\u5927\u53d4\u7684\u7231'}
+{'vote': 800, 'rating': 4.9, 'title': u'\u7981\u95ed'}
+{'vote': 195, 'rating': 7.0, 'title': u'\u4e8c\u5341\u56db\u5468'}
+{'vote': 5273, 'rating': 4.1, 'title': u'\u9e2d\u738b2'}
+{'vote': 225, 'rating': 6.6, 'title': u'\u514b\u91cc\u65af\u6c40'}
+{'vote': 1654, 'rating': 6.5, 'title': u'\u739b\xb7\u9c81\u7279'}
+{'vote': 383, 'rating': 6.8, 'title': u'\u4e34\u6e0a\u800c\u7acb'}
+{'vote': 7925, 'rating': 8.0, 'title': u'\u6b22\u4e50\u559c\u5267\u4eba \u7b2c\u4e8c\u5b63'}
+{'vote': 4165, 'rating': 7.5, 'title': u'\u539f\u4ee5\u4e3a\u547d\u4e2d\u6ce8\u5b9a\u7684\u604b\u7231\u4e0d\u4f1a\u53d1\u751f\u5728\u6211\u8eab\u4e0a'}
