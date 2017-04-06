@@ -2,7 +2,7 @@
 
 ## multithreading
 
-- [code](https://github.com/gaoxinge/network/tree/master/process/multithreading/code)
+- [code](https://github.com/gaoxinge/network/tree/master/process/multithread/code)
 
 ## coroutine
 
