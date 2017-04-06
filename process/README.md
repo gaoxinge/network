@@ -1,6 +1,6 @@
 ﻿# process
 
-## multithreading
+## multithread
 
 - [code](https://github.com/gaoxinge/network/tree/master/process/multithread/code)
 
