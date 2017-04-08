@@ -1,6 +1,7 @@
 - [深入理解Python WSGI：一起写一个Web服务器](https://my.oschina.net/leejun2005/blog/486771)
 - [Python HOWTOs官方文档：Socket编程](http://python.jobbole.com/81860/)
 - [Python Realtime](http://pyzh.readthedocs.io/en/latest/python-realtime.html)
+- [作为一个python开发者需要知道的关于服务器的知识](http://python.jobbole.com/82009/)
 - [WSGI.org](http://wsgi.readthedocs.io/en/latest/index.html)
 - [pep-0333](https://www.python.org/dev/peps/pep-0333/)
 - [pep-3333](https://www.python.org/dev/peps/pep-3333/)
