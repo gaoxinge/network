@@ -1,2 +1,3 @@
 - [写了一个简单的CGI Server](http://www.cnblogs.com/pricks/p/3831498.html)
 - [BaseHTTPServer与CGIHTTPServer源码分析](https://my.oschina.net/hevakelcj/blog/372923)
+- [CGI Made Really Easy](http://www.jmarshall.com/easy/cgi/)
