@@ -2,18 +2,18 @@ import os
 from werkzeug.serving import run_simple
 from werkzeug.wrappers import Request, Response
 from werkzeug.wsgi import wrap_file
-from jinja2 import Environment, FileSystemLoader
 
 # reconstruct render_template
 def render_template(template_name, **context):
+    from jinja2 import Environment, FileSystemLoader
     template_path = os.path.join(os.getcwd(), 'templates')
     jinja_env = Environment(loader=FileSystemLoader(template_path), autoescape=True)
-    t = jinja_env.get_template(template_name)
-    return Response(t.render(context), mimetype='text/html')
+    content = jinja_env.get_template(template_name).render(context)
+    return Response(content, mimetype='text/html')
 
 # manipulate the file
 static_path = os.path.join(os.getcwd(), 'static')
-
+    
 def save_file(f):
     path = os.path.join(static_path, f.filename)
     with open(path, 'wb') as tmp:
@@ -21,6 +21,12 @@ def save_file(f):
         
 def list_file():
     return os.listdir(static_path)
+
+def open_file(filename):
+    path = os.path.join(static_path, filename)
+    with open(path, 'rb') as f:
+        content = f.read()
+    return content
     
 def remove_file(filename):
     path = os.path.join(static_path, filename)
@@ -61,6 +67,15 @@ def application(environ, start_response):
         return response(environ, start_response)
     
     """
+    url:    /static
+    """
+    if path[1:7] == 'static':
+        filename = path[8:]
+        content = open_file(filename)
+        response = Response(content, 'image/jpeg')
+        return response(environ, start_response)
+        
+    """
     url:    /delete
     """
     if path[1:7] == 'delete':
@@ -73,9 +88,10 @@ def application(environ, start_response):
     url:    /view
     """
     if path[1:5] == 'view':
-        response = render_template('view.html')
+        filename = path[6:]
+        response = render_template('view.html', filename=filename)
         return response(environ, start_response)
-        
+    
     """
     url:    404
     """
