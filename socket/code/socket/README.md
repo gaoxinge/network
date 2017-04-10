@@ -1,1 +1,5 @@
 - [从0到1，Python网络编程的入门之路](https://zhuanlan.zhihu.com/p/25354747)
+- [Python应用01 原始Python服务器](http://www.cnblogs.com/vamei/archive/2012/10/30/2744955.html)
+- [Python应用02 Python服务器进化](http://www.cnblogs.com/vamei/archive/2012/10/31/2747885.html)
+- [Python实现简单的Web服务器](https://zhuanlan.zhihu.com/p/21323273)
+- [A Simple Web Server](http://aosabook.org/en/500L/a-simple-web-server.html)

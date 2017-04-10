@@ -1,3 +1,5 @@
+- [CGI跟我学](http://www.jdon.com/idea/cgi.htm)
 - [写了一个简单的CGI Server](http://www.cnblogs.com/pricks/p/3831498.html)
+- [写了一个简单的CGI Server](http://armsword.com/2014/05/18/light-cgi-server/)
 - [BaseHTTPServer与CGIHTTPServer源码分析](https://my.oschina.net/hevakelcj/blog/372923)
 - [CGI Made Really Easy](http://www.jmarshall.com/easy/cgi/)
