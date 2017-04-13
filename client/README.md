@@ -2,6 +2,8 @@
 
 ## request
 
+- [curl](https://github.com/curl/curl)
+- [httpie](https://github.com/jakubroztocil/httpie)
 - [requests](https://github.com/gaoxinge/network/tree/master/client/request/requests)
 - [grequests](https://github.com/gaoxinge/network/tree/master/client/request/grerequests)
 
