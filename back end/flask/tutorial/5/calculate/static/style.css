@@ -1,0 +1,6 @@
+textarea {
+	border: 0;
+	outline: none;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}

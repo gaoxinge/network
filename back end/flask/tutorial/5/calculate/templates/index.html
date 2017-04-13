@@ -1,0 +1,12 @@
+{% block head %}
+<title>calculate</title>
+<link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+{% endblock %}
+	
+{% block body %}
+<textarea rows="100" cols="100" onkeypress="calculate()">>>> </textarea><br>
+{% endblock %}
+	
+{% block script %}
+<script src="{{ url_for('static', filename='javascript.js') }}"></script>
+{% endblock %}
