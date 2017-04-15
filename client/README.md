@@ -37,7 +37,7 @@
 - [小白爬虫](https://github.com/gaoxinge/network/tree/master/client/code/%E5%B0%8F%E7%99%BD%E7%88%AC%E8%99%AB)
 - [do some researches on requests](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20requests)
 - [do some researches on downloads](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20downloads)
-- [do some researches on request](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20request)
+- [do some researches on get](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20get)
 - [do some researches on post](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20post)
 - [do some researches on crawler](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20crawler)
 
