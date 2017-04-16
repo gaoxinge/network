@@ -36,7 +36,7 @@
 - [Python爬虫学习系列教程](https://github.com/gaoxinge/network/tree/master/client/code/Python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
 - [小白爬虫](https://github.com/gaoxinge/network/tree/master/client/code/%E5%B0%8F%E7%99%BD%E7%88%AC%E8%99%AB)
 - [do some researches on requests](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20requests)
-- [do some researches on downloads](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20downloads)
+- [do some researches on download](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20download)
 - [do some researches on get](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20get)
 - [do some researches on post](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20post)
 - [do some researches on crawler](https://github.com/gaoxinge/network/tree/master/client/code/do%20some%20researches%20on%20crawler)
