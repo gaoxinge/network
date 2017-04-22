@@ -4,6 +4,10 @@
 
 - [wireshark](https://github.com/gaoxinge/network/tree/master/monitor/sniff/wireshark)
 
+## library
+
+- [scapy](http://www.secdev.org/projects/scapy/)
+
 ## code
 
 - [Code a network packet sniffer in python for Linux](https://github.com/gaoxinge/network/tree/master/monitor/code/Code%20a%20network%20packet%20sniffer%20in%20python%20for%20Linux)
