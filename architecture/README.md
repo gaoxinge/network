@@ -19,6 +19,10 @@
 
 ## 概念
 
+### 内容分发网络
+
+- [互联网人：了解什么是CDN吗？](https://www.zhihu.com/question/37353035)
+
 ### 负载均衡
 
 - [一分钟了解负载均衡的一切](http://www.oschina.net/news/77156/load-balance)
