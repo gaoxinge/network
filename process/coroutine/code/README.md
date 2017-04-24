@@ -1,0 +1,3 @@
+- [Python协程：从yield/send到async/await](http://python.jobbole.com/86069/)
+- [提高你的Python: 解释‘yield’和‘Generators（生成器）’](https://www.oschina.net/translate/improve-your-python-yield-and-generators-explained?lang=chs&page=1#)
+- [coroutine](http://www.dabeaz.com/coroutines/Coroutines.pdf)
