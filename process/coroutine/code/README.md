@@ -4,3 +4,5 @@
 - [Generator Tricks for Systems Programmers - Version 2.0](http://www.dabeaz.com/generators-uk/)
 - [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/)
 - [Generators: The Final Frontier](http://www.dabeaz.com/finalgenerator/)
+- [怎么理解coroutine](https://www.zhihu.com/question/21483863)
+- [如何理解Tornado中的协程模块(gen.coroutine)](https://www.zhihu.com/question/22289257)
