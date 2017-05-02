@@ -1,4 +1,4 @@
-﻿# network
+# network
 
 ## basic
 
@@ -25,12 +25,9 @@
 - [back end](https://github.com/gaoxinge/network/tree/master/back%20end)
 - [full stack](https://github.com/gaoxinge/network/tree/master/full%20stack)
 - [architecture](https://github.com/gaoxinge/network/tree/master/architecture)
+- [gfw](https://github.com/gaoxinge/network/tree/master/gfw)
 
 ## protocol
 
 - [ftp](https://github.com/gaoxinge/network/tree/master/ftp)
 - [mail](https://github.com/gaoxinge/network/tree/master/mail)
-
-## application
-
-- [gfw](https://github.com/gaoxinge/network/tree/master/gfw)
