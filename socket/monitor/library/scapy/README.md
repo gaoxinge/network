@@ -1,0 +1,2 @@
+- [official website](http://www.secdev.org/projects/scapy/)
+- [github](https://github.com/secdev/scapy)
