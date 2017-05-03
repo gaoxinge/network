@@ -13,6 +13,6 @@
 
 ## code
 
-- [socket](https://github.com/gaoxinge/network/tree/master/socket/code/socket)
+- [static](https://github.com/gaoxinge/network/tree/master/socket/code/static)
 - [cgi](https://github.com/gaoxinge/network/tree/master/socket/code/cgi)
 - [wsgi](https://github.com/gaoxinge/network/tree/master/socket/code/wsgi)
