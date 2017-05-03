@@ -26,7 +26,7 @@
 - [architecture](https://github.com/gaoxinge/network/tree/master/architecture)
 - [gfw](https://github.com/gaoxinge/network/tree/master/gfw)
 
-## protocol
+## mail
 
-- [ftp](https://github.com/gaoxinge/network/tree/master/ftp)
-- [mail](https://github.com/gaoxinge/network/tree/master/mail)
+- [client](https://github.com/gaoxinge/network/tree/master/client)
+- [server](https://github.com/gaoxinge/network/tree/master/server)
