@@ -28,4 +28,4 @@
 
 ## protocol
 
-- [client](https://github.com/gaoxinge/network/tree/master/mail)
+- [mail](https://github.com/gaoxinge/network/tree/master/mail)
