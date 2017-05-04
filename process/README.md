@@ -1,5 +1,17 @@
 # process
 
+## GIL
+
+- [为什么有人说Python的多线程是鸡肋呢？](https://www.zhihu.com/question/23474039/answer/24695447)
+- [什么是全局解释器锁GIL](http://www.cnblogs.com/menkeyi/p/5806601.html)
+- [为什么在Python里推荐使用多进程而不是多线程？](http://m.blog.csdn.net/article/details?id=51243137)
+- [Python中的GIL问题](http://www.wyblog.cn/2017/02/18/python%E4%B8%AD%E7%9A%84gil%E9%97%AE%E9%A2%98/)
+- [Python的GIL是什么鬼，多线程性能究竟如何](http://cenalulu.github.io/python/gil-in-python/)
+- [线程安全及Python中的GIL](http://www.cnblogs.com/mindsbook/archive/2009/10/15/thread-safety-and-GIL.html)
+- [Python最难的问题](http://www.oschina.net/translate/pythons-hardest-problem)
+
+## state machine
+
 ## multiprocess
 
 - [code](https://github.com/gaoxinge/network/tree/master/process/multiprocess/code)
