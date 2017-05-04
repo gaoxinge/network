@@ -1,5 +1,6 @@
 ﻿- [thread多线程处理](http://python.jobbole.com/81544/)
 - [threading多线程控制和处理](http://python.jobbole.com/81546/)
+- [Python多线程和锁](https://segmentfault.com/a/1190000006833380)
 - [深入理解Python中的ThreadLocal变量（上）](http://python.jobbole.com/86150/)
 - [深入理解Python中的ThreadLocal变量（中）](http://python.jobbole.com/86203/)
 - [深入理解Python中的ThreadLocal变量（下）](http://python.jobbole.com/86753/)
