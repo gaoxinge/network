@@ -9,6 +9,7 @@
 - [Python的GIL是什么鬼，多线程性能究竟如何](http://cenalulu.github.io/python/gil-in-python/)
 - [线程安全及Python中的GIL](http://www.cnblogs.com/mindsbook/archive/2009/10/15/thread-safety-and-GIL.html)
 - [Python最难的问题](http://www.oschina.net/translate/pythons-hardest-problem)
+- [Python中的进程、线程、协程、同步、异步、回调](https://segmentfault.com/a/1190000001813992)
 
 ## state machine
 
