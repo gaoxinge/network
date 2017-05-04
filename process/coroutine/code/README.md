@@ -1,5 +1,6 @@
 - [提高你的Python: 解释‘yield’和‘Generators（生成器）’](https://www.oschina.net/translate/improve-your-python-yield-and-generators-explained?lang=chs&page=1#)
 - [Python协程：从yield/send到async/await](http://python.jobbole.com/86069/)
+- [Python3.5协程究竟是个啥](http://www.tuicool.com/articles/V7jQbmU)
 - [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators/)
 - [Generator Tricks for Systems Programmers - Version 2.0](http://www.dabeaz.com/generators-uk/)
 - [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/)
