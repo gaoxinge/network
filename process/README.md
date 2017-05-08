@@ -2,6 +2,7 @@
 
 ## GIL
 
+- [Understanding the Python GIL](http://www.dabeaz.com/GIL/)
 - [为什么有人说Python的多线程是鸡肋呢？](https://www.zhihu.com/question/23474039/answer/24695447)
 - [什么是全局解释器锁GIL](http://www.cnblogs.com/menkeyi/p/5806601.html)
 - [为什么在Python里推荐使用多进程而不是多线程？](http://m.blog.csdn.net/article/details?id=51243137)
