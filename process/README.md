@@ -23,8 +23,6 @@
 ## multithread
 
 - [code](https://github.com/gaoxinge/network/tree/master/process/multithread/code)
-- [do some researches on thread](https://github.com/gaoxinge/network/tree/master/process/multithread/do%20some%20researches%20on%20thread)
-- [do some researches on multithread](https://github.com/gaoxinge/network/tree/master/process/multithread//do%20some%20researches%20on%20multithread)
 
 ## coroutine
 
