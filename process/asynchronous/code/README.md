@@ -1,1 +1,2 @@
 - [Python的select.select()函数初探](http://blog.csdn.net/vito21/article/details/53319306)
+- [Python使用select实现异步通信](http://www.linuxidc.com/Linux/2014-02/97152.htm)
