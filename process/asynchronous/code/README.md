@@ -1,0 +1,1 @@
+- [Python的select.select()函数初探](http://blog.csdn.net/vito21/article/details/53319306)
