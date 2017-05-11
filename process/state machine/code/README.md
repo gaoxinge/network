@@ -1,0 +1,1 @@
+- [python学习笔记（27）--类的详解8（基于类的状态机）](http://blog.csdn.net/jinxiaonian11/article/details/54381793)
