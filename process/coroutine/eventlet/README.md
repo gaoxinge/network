@@ -1,2 +1,4 @@
 - [official website](http://eventlet.net/)
 - [github](https://github.com/eventlet)
+- [Python——eventlet.event](http://www.cnblogs.com/Security-Darren/p/4168116.html)
+- [Python——eventlet.greenpool](http://www.cnblogs.com/Security-Darren/p/4168233.html)
