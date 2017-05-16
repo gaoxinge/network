@@ -1,2 +1,3 @@
 - [official website](http://gevent.org)
 - [github](https://github.com/gevent)
+- [gevent: the Good, the Bad, the Ugly](https://code.mixpanel.com/2010/10/29/gevent-the-good-the-bad-the-ugly/)
