@@ -5,3 +5,5 @@
 - [python模块介绍-gevent介绍：基于协程的网络库](https://my.oschina.net/u/1433482/blog/192562)
 - [深度分析gevent运行流程](http://blog.csdn.net/yueguanghaidao/article/details/24281751)
 - [gevent两架马车-libev和greenlet](http://blog.csdn.net/yueguanghaidao/article/details/39122867)
+- [libev cython绑定core.pyx](http://blog.csdn.net/yueguanghaidao/article/details/39253645)
+- [c-ares异步DNS请求](http://blog.csdn.net/yueguanghaidao/article/details/39301269)
