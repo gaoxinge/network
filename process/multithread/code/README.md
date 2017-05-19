@@ -6,9 +6,10 @@
 - [深入理解Python中的ThreadLocal变量（下）](http://python.jobbole.com/86753/)
 - [python中threading模块详解](http://blog.chinaunix.net/uid-27571599-id-3484048.html)
 - [一行Python实现并行化](https://segmentfault.com/a/1190000000414339)
+- [Python继承类的方式实现多线程及控制线程数](http://lihuipeng.blog.51cto.com/3064864/1322247)
 - [理解Python中的多线程](https://my.oschina.net/leejun2005/blog/179265)
 - [Python线程详解](http://www.jb51.net/article/68323.htm)
+- [搞定python多线程和多进程](http://www.cnblogs.com/whatisfantasy/p/6440585.html)
 - [python之线程、进程和协程](http://www.cnblogs.com/feixuelove1009/p/5683159.html)
 - [python进程、线程、协程](http://www.cnblogs.com/aylin/p/5601969.html)
-- [搞定python多线程和多进程](http://www.cnblogs.com/whatisfantasy/p/6440585.html)
-- [Python继承类的方式实现多线程及控制线程数](http://lihuipeng.blog.51cto.com/3064864/1322247)
+
