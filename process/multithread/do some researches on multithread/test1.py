@@ -7,34 +7,50 @@ class Count(object):
         self.lock = threading.Lock()
         self.count = count
         
-    def add(self):
-        self.lock.acquire()
-        self.count += 1
-        self.lock.release()
-        
-    def sub(self):
-        self.lock.acquire()
-        self.count -= 1
-        self.lock.release()
-    
-    def num(self):
+    def __iadd__(self, other):
         self.lock.acquire()
         try:
-            return self.count
+            self.count += other
+            return self
+        finally:
+            self.lock.release()
+        
+    def __isub__(self, other):
+        self.lock.acquire()
+        try:
+            self.count -= other
+            return self
         finally:
             self.lock.release()
             
-    def is_zero(self):
+    def __nonzero__(self):
         self.lock.acquire()
         try:
-            return not bool(self.count)
+            return self.count.__nonzero__()
+        finally:
+            self.lock.release()
+            
+    def __str__(self):
+        self.lock.acquire()
+        try:
+            return str(self.count)
+        finally:
+            self.lock.release()
+            
+    def __repr__(self):
+        self.lock.acquire()
+        try:
+            return repr(self.count)
         finally:
             self.lock.release()
             
 c = Count(5)
-print c.num()
-c.add()
-print c.num()
-c.sub()
-print c.num()
-print c.is_zero()
+print c
+c += 1
+print c
+c -= 1
+print c
+print bool(c)
+print c.__nonzero__()
+print str(c)
+print repr(c)

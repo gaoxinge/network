@@ -15,9 +15,13 @@ class Factory(threading.Thread):
         import Queue
         self.queue = Queue.Queue()
         self.workers = []
-        for i in range(self.num):
+        for _ in range(self.num):
             worker = Worker(self.func, self.queue, self.count)
             self.workers.append(worker)
+    
+    def work(self):
+        for worker in self.workers:
+            worker.start()
     
     def terminate(self):
         for worker in self.workers:
@@ -25,13 +29,11 @@ class Factory(threading.Thread):
     
     def run(self):
         self.prepare()
-        for worker in self.workers:
-            worker.start()
+        self.work()
         while True:
-            if not self.resources.is_empty():
+            if not self.resources:
                 self.queue.put(self.resources.pop())
-                self.count.add()
+                self.count += 1
             else if self.check():
                 break
         self.terminate()
-        

@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 import threading
 
-class Worker(object):
+class Worker(threading.Thread):
     
     def __init__(self, func, queue, count):
+        threading.Thread.__init__(self)
+        self.event = threading.Event()
         self.func = func
         self.queue = queue
         self.count = count
-        self.event = threading.Event()
         
     def run(self):
         while True:
@@ -20,5 +21,7 @@ class Worker(object):
             else:
                 try:
                     self.func(args)
+                except:
+                    pass
                 finally:
-                    self.count.sub()
+                    self.count -= 1

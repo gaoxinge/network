@@ -17,25 +17,34 @@ class Resources(object):
         self.initializer.pop(0)
         self.lock.release()
         
-    def size(self):
+    def __len__(self):
         self.lock.acquire()
         try:
             return len(self.initializer)
         finally:
             self.lock.release()
             
-    def is_empty(self):
+    def __str__(self):
         self.lock.acquire()
         try:
-            return not bool(self.initializer)
+            return str(self.initializer)
+        finally:
+            self.lock.release()
+    
+    def __repr__(self):
+        self.lock.acquire()
+        try:
+            return repr(self.initializer)
         finally:
             self.lock.release()
             
 r = Resources([1, 2, 3])
-print r.initializer
+print r
 r.push(4)
-print r.initializer
+print r
 r.pop()
-print r.initializer
-print r.size()
-print r.is_empty()
+print r
+print bool(r)
+print len(r)
+print str(r)
+print repr(r)

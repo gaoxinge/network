@@ -6,10 +6,10 @@ class Scheduler(object):
     
         def check():
             for count in counts:
-                if not count.is_zero():
+                if count:
                     return False
             for config in configs:
-                if not config[0].is_empty():
+                if config[0]:
                     return False
             return True
         
