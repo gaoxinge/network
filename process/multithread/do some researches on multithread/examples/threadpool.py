@@ -1,4 +1,4 @@
-import threading
+# -*- coding: utf-8 -*-
 from schedulery import Resources, Scheduler
 
 class ThreadPool(object):
@@ -14,8 +14,6 @@ class ThreadPool(object):
             results.push(func(x))
         
         configs = [(initial, f, self.num)]
-        
-        s = Scheduler(configs)
-        s.run()
-        
+        scheduler = Scheduler(configs)
+        scheduler.run()
         return results
