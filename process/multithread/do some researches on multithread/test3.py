@@ -31,9 +31,9 @@ class Factory(threading.Thread):
         self.prepare()
         self.work()
         while True:
-            if not self.resources:
+            if self.resources:
                 self.queue.put(self.resources.pop())
                 self.count += 1
-            else if self.check():
+            elif self.check():
                 break
         self.terminate()

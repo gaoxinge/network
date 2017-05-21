@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
+import threading
 
 class Resources(object):
     
     def __init__(self, initializer=[]):
-        import threading
         self.lock = threading.Lock()
         self.initializer = initializer
         
@@ -39,14 +39,3 @@ class Resources(object):
             return repr(self.initializer)
         finally:
             self.lock.release()
-            
-r = Resources([1, 2, 3])
-print r
-r.push(4)
-print r
-print r.pop()
-print r
-print bool(r)
-print len(r)
-print str(r)
-print repr(r)
