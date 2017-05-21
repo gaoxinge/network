@@ -1,5 +1,7 @@
 ## multiprocessing
 
+- [Python多进程编程](http://python.jobbole.com/82045/)
+
 ## subprocess
 
 - [Python模块学习：subprocess 创建子进程](http://python.jobbole.com/81517/)
