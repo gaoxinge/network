@@ -1,0 +1,4 @@
+- sys：用c编写
+- os：用python编写
+- multiprocessing：用python编写
+- subprocess：用python编写
