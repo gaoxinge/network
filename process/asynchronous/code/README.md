@@ -1,5 +1,6 @@
 - [【循序渐进学Python】15.网络编程](http://www.cnblogs.com/IPrograming/p/Python-socket.html)
 - [python中的select模块](http://www.cnblogs.com/MnCu8261/p/6403340.html)
+- [python IO多路复用select poll epoll](http://www.cnblogs.com/9527chu/p/5661932.html)
 - [Python的select.select()函数初探](http://blog.csdn.net/vito21/article/details/53319306)
 - [Python使用select实现异步通信](http://www.linuxidc.com/Linux/2014-02/97152.htm)
 - [python成长之路【第十篇】：浅析python select模块](http://www.cnblogs.com/wooya/p/5898694.html)
