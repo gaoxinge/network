@@ -1,4 +1,5 @@
 - [【循序渐进学Python】15.网络编程](http://www.cnblogs.com/IPrograming/p/Python-socket.html)
+- [python之socket编程](http://www.cnblogs.com/aylin/p/5572104.html)
 - [python中的select模块](http://www.cnblogs.com/MnCu8261/p/6403340.html)
 - [python IO多路复用select poll epoll](http://www.cnblogs.com/9527chu/p/5661932.html)
 - [Python的select.select()函数初探](http://blog.csdn.net/vito21/article/details/53319306)
