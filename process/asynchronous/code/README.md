@@ -7,3 +7,4 @@
 - [python成长之路【第十篇】：浅析python select模块](http://www.cnblogs.com/wooya/p/5898694.html)
 - [在python中编写socket服务端模块（一）：使用select](http://www.2cto.com/kf/201309/243735.html)
 - [python实现select和epoll模型socket网络编程](http://blog.csdn.net/shudaqi2010/article/details/50217373)
+- [Python异步非阻塞IO多路复用Select/Poll/Epoll使用](http://blog.csdn.net/freeking101/article/details/52438531)
