@@ -1,0 +1,4 @@
+- windows: select
+- mac: select
+- unix: select, poll, epoll
+- freebsd: kqueue
