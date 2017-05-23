@@ -8,7 +8,6 @@ inputs = [s]
 outputs = []
 count = 0
 
-
 while True:
     r_list, w_list, e_list = select.select(inputs, outputs, inputs)
     
