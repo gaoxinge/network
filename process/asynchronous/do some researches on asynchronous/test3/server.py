@@ -29,9 +29,12 @@ while True:
                 t.close()
                 
     for t in w_list:
-        data = message_dict[t][0]
-        del message_dict[t][0]
-        conn.sendall('hello' + data)
+        try:
+            data = message_dict[t][0]
+            del message_dict[t][0]
+            t.sendall('hello' + data)
+        except:
+            pass
         
     for t in e_list:
         inputs.remove(t)

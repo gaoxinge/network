@@ -13,4 +13,12 @@
 
 ## test3
 
-- outputs会无限循环，阻塞recv
+- outputs会无限循环
+
+## test4
+
+- 无outputs，先recv，再sendall
+
+## test5
+
+- 有outputs，先recv，再sendall
