@@ -41,4 +41,4 @@
 ## asynchronous
 
 - [code](https://github.com/gaoxinge/network/tree/master/process/asynchronous/code)
-- [do some researches on synchronous](https://github.com/gaoxinge/network/tree/master/process/asynchronous/do%20some%20researches%20on%20asynchronous)
+- [do some researches on asynchronous](https://github.com/gaoxinge/network/tree/master/process/asynchronous/do%20some%20researches%20on%20asynchronous)
