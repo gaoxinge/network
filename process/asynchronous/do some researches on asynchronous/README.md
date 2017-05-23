@@ -10,3 +10,7 @@
 ## test2
 
 - outputs会无限循环
+
+## test3
+
+- outputs会无限循环，阻塞recv
