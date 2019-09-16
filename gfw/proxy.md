@@ -1,16 +1,17 @@
 # proxy
 
-## Ô­Àí
+## åŸç†
 
-ä¯ÀÀÆ÷°ÑÒª·ÃÎÊµÄ·şÎñÆ÷ÓòÃû¸æËß±¾µØ´úÀí£¬Ö±½Ó·¢ËÍÇëÇó¸ø¹úÍâµÄ´úÀí·şÎñÆ÷¡£´úÀí·şÎñÆ÷ÔÚÓëÄ¿±ê·şÎñÆ÷Á¬½ÓÊ±£¬×ödns½âÎö£¬·¢ËÍÇëÇó£¬·µ»ØÊı¾İ¡£ÏÂÃæÂŞÁĞÒ»Ğ©´úÀíÀàĞÍ£º
+æµè§ˆå™¨æŠŠè¦è®¿é—®çš„æœåŠ¡å™¨åŸŸåå‘Šè¯‰æœ¬åœ°ä»£ç†ï¼Œç›´æ¥å‘é€è¯·æ±‚ç»™å›½å¤–çš„ä»£ç†æœåŠ¡å™¨ã€‚ä»£ç†æœåŠ¡å™¨åœ¨ä¸ç›®æ ‡æœåŠ¡å™¨è¿æ¥æ—¶ï¼Œåšdnsè§£æï¼Œå‘é€è¯·æ±‚ï¼Œè¿”å›æ•°æ®ã€‚ä¸‹é¢ç½—åˆ—ä¸€äº›ä»£ç†ç±»å‹ï¼š
 
 - ssl
-- http/https£ºgoagent£¬[goproxy](https://github.com/phuslu/goproxy)£¬[XX-Net](https://github.com/XX-net/XX-Net)
-- socks5£º[shadowsocks](https://github.com/shadowsocks)£¬[Long-live-shadowsocks](https://github.com/Long-live-shadowsocks)
+- pac: [new-pac](https://github.com/Alvin9999/new-pac)
+- http/httpsï¼šgoagentï¼Œ[goproxy](https://github.com/phuslu/goproxy)ï¼Œ[XX-Net](https://github.com/XX-net/XX-Net)
+- socks5ï¼š[shadowsocks](https://github.com/shadowsocks)ï¼Œ[Long-live-shadowsocks](https://github.com/Long-live-shadowsocks)
 
-## ·½·¨
+## æ–¹æ³•
 
-¾ßÌå¿É²Î¼û
+å…·ä½“å¯å‚è§
 
 - [goproxy](https://github.com/phuslu/goproxy)
 - [XX-Net](https://github.com/XX-net/XX-Net)
