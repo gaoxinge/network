@@ -17,3 +17,5 @@
 - [XX-Net](https://github.com/XX-net/XX-Net)
 - [shadowsocks](https://github.com/shadowsocks)
 - [Long-live-shadowsocks](https://github.com/Long-live-shadowsocks)
+- [Project V](https://github.com/v2ray)
+- [v2fly](https://github.com/v2fly)
