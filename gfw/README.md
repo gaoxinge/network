@@ -54,5 +54,6 @@
 - [GFW](https://github.com/gaoxinge/network/blob/master/gfw/gfw.md)
 - [hosts](https://github.com/gaoxinge/network/tree/master/gfw/hosts.md)
 - [proxy](https://github.com/gaoxinge/network/tree/master/gfw/proxy.md)
+- [vps](https://github.com/gaoxinge/network/tree/master/gfw/vps.md)
 - [vpn](https://github.com/gaoxinge/network/tree/master/gfw/vpn.md)
 - [router](https://github.com/gaoxinge/network/tree/master/gfw/router.md)
